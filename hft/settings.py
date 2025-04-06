@@ -20,8 +20,8 @@ import os
 KAFKA_BOOTSTRAP_SERVERS = os.getenv("KAFKA_BOOTSTRAP_SERVERS", "kafka:9092")
 
 KAFKA_CONFIG = {
-    "bootstrap_servers": KAFKA_BOOTSTRAP_SERVERS,
-    "group_id": "trade-group",
+    "bootstrap_servers": localhost:9092,
+    "group_id": "trade-data",
     "auto_offset_reset": "latest",
     "value_deserializer": lambda m: m.decode("utf-8"),
 }
