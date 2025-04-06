@@ -1,0 +1,9 @@
+Django>=4.2
+djangorestframework
+kafka-python
+celery
+redis
+psycopg2-binary
+flower==1.2.0
+websocket-client
+binance-python

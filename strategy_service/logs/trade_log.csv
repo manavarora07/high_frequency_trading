@@ -1,0 +1,24 @@
+timestamp,symbol,quantity,order_type,price,status
+2025-04-06T06:51:42.579854+00:00,XRP-USD,4,market,Market Price,executed
+2025-04-06T06:51:43.081013+00:00,XRP-USD,10,market,Market Price,executed
+2025-04-06T06:51:43.582156+00:00,BTC-USD,3,market,Market Price,executed
+2025-04-06T06:51:44.083466+00:00,BTC-USD,6,market,Market Price,executed
+2025-04-06T06:51:44.584454+00:00,LTC-USD,7,market,Market Price,executed
+2025-04-06T06:51:45.086250+00:00,BTC-USD,10,market,Market Price,executed
+2025-04-06T06:51:45.587991+00:00,LTC-USD,8,market,Market Price,executed
+2025-04-06T06:51:46.089027+00:00,LTC-USD,3,market,Market Price,executed
+2025-04-06T06:51:46.590589+00:00,XRP-USD,3,market,Market Price,executed
+2025-04-06T06:51:47.092141+00:00,ETH-USD,7,market,Market Price,executed
+2025-04-06T06:51:47.594217+00:00,XRP-USD,9,market,Market Price,executed
+2025-04-06T06:51:48.095205+00:00,ETH-USD,5,market,Market Price,executed
+2025-04-06T06:51:48.597441+00:00,XRP-USD,4,market,Market Price,executed
+2025-04-06T06:51:49.098895+00:00,LTC-USD,1,market,Market Price,executed
+2025-04-06T06:51:49.600295+00:00,ETH-USD,6,market,Market Price,executed
+2025-04-06T06:51:50.101949+00:00,ETH-USD,10,market,Market Price,executed
+2025-04-06T06:51:50.602949+00:00,LTC-USD,8,market,Market Price,executed
+2025-04-06T06:51:51.104345+00:00,XRP-USD,5,market,Market Price,executed
+2025-04-06T06:51:51.605719+00:00,BTC-USD,4,market,Market Price,executed
+2025-04-06T06:51:52.106851+00:00,BTC-USD,9,market,Market Price,executed
+2025-04-06T06:51:52.607967+00:00,LTC-USD,7,market,Market Price,executed
+2025-04-06T06:51:53.109101+00:00,BTC-USD,3,market,Market Price,executed
+2025-04-06T06:51:53.611045+00:00,ETH-USD,6,market,Market Price,executed

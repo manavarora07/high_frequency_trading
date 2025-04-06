@@ -1,0 +1,1321 @@
+timestamp,symbol,quantity,order_type,price,status
+2025-04-05 12:05:14.919547,BTC-USD,5,market,Market Price,executed
+2025-04-05 12:05:15.148457,BTC-USD,3,market,Market Price,executed
+2025-04-05 12:05:15.370581,BTC-USD,1,market,Market Price,executed
+2025-04-05 12:05:15.847755,BTC-USD,4,market,Market Price,executed
+2025-04-05 12:05:16.329916,BTC-USD,1,market,Market Price,executed
+2025-04-05 12:05:16.708435,BTC-USD,1,market,Market Price,executed
+2025-04-05 12:05:17.119795,BTC-USD,3,market,Market Price,executed
+2025-04-05 12:05:17.496566,BTC-USD,5,market,Market Price,executed
+2025-04-05 12:05:17.881093,BTC-USD,4,market,Market Price,executed
+2025-04-05 12:05:18.370006,BTC-USD,3,market,Market Price,executed
+2025-04-05 12:05:18.493313,BTC-USD,3,market,Market Price,executed
+2025-04-05 12:05:18.668000,BTC-USD,4,market,Market Price,executed
+2025-04-05 12:05:18.864825,BTC-USD,3,market,Market Price,executed
+2025-04-05 12:05:19.051099,BTC-USD,1,market,Market Price,executed
+2025-04-05 12:05:19.459715,BTC-USD,1,market,Market Price,executed
+2025-04-05 12:05:19.694064,BTC-USD,2,market,Market Price,executed
+2025-04-05 12:05:19.962493,BTC-USD,5,market,Market Price,executed
+2025-04-05 12:05:20.430207,BTC-USD,1,market,Market Price,executed
+2025-04-05 12:05:20.757503,BTC-USD,4,market,Market Price,executed
+2025-04-05 12:05:21.243017,BTC-USD,1,market,Market Price,executed
+2025-04-05 12:05:21.427562,BTC-USD,1,market,Market Price,executed
+2025-04-05 12:05:21.842374,BTC-USD,2,market,Market Price,executed
+2025-04-05 12:05:22.239503,BTC-USD,4,market,Market Price,executed
+2025-04-05 12:05:22.544364,BTC-USD,5,market,Market Price,executed
+2025-04-05 12:05:22.803509,BTC-USD,1,market,Market Price,executed
+2025-04-05 12:05:22.930993,BTC-USD,3,market,Market Price,executed
+2025-04-05 12:05:23.146791,BTC-USD,5,market,Market Price,executed
+2025-04-05 12:05:23.397270,BTC-USD,2,market,Market Price,executed
+2025-04-05 12:05:23.508898,BTC-USD,4,market,Market Price,executed
+2025-04-05 12:05:23.614540,BTC-USD,5,market,Market Price,executed
+2025-04-05 12:05:23.930248,BTC-USD,4,market,Market Price,executed
+2025-04-05 12:05:24.394273,BTC-USD,3,market,Market Price,executed
+2025-04-05 12:05:24.500661,BTC-USD,2,market,Market Price,executed
+2025-04-05 12:05:24.653678,BTC-USD,4,market,Market Price,executed
+2025-04-05 12:05:24.956182,BTC-USD,2,market,Market Price,executed
+2025-04-05 12:05:25.308923,BTC-USD,3,market,Market Price,executed
+2025-04-05 12:05:25.583279,BTC-USD,3,market,Market Price,executed
+2025-04-05 12:05:25.991317,BTC-USD,3,market,Market Price,executed
+2025-04-05 12:05:26.164236,BTC-USD,2,market,Market Price,executed
+2025-04-05 12:05:26.648179,BTC-USD,4,market,Market Price,executed
+2025-04-05 12:05:26.812463,BTC-USD,3,market,Market Price,executed
+2025-04-05 12:05:27.038990,BTC-USD,3,market,Market Price,executed
+2025-04-05 12:05:27.398480,BTC-USD,2,market,Market Price,executed
+2025-04-05 12:05:27.797584,BTC-USD,4,market,Market Price,executed
+2025-04-05 12:05:28.162398,BTC-USD,1,market,Market Price,executed
+2025-04-05 12:05:28.363364,BTC-USD,2,market,Market Price,executed
+2025-04-05 12:05:28.484137,BTC-USD,1,market,Market Price,executed
+2025-04-05 12:05:28.919103,BTC-USD,3,market,Market Price,executed
+2025-04-05 12:05:29.068247,BTC-USD,5,market,Market Price,executed
+2025-04-05 12:05:29.560931,BTC-USD,1,market,Market Price,executed
+2025-04-05 12:05:30.057594,BTC-USD,3,market,Market Price,executed
+2025-04-05 12:05:30.335412,BTC-USD,3,market,Market Price,executed
+2025-04-05 12:05:30.698061,BTC-USD,4,market,Market Price,executed
+2025-04-05 12:05:31.105512,BTC-USD,1,market,Market Price,executed
+2025-04-05 12:05:31.266167,BTC-USD,4,market,Market Price,executed
+2025-04-05 12:05:31.593060,BTC-USD,3,market,Market Price,executed
+2025-04-05 12:05:31.854010,BTC-USD,4,market,Market Price,executed
+2025-04-05 12:05:32.308072,BTC-USD,2,market,Market Price,executed
+2025-04-05 12:05:32.654864,BTC-USD,5,market,Market Price,executed
+2025-04-05 12:05:32.915839,BTC-USD,3,market,Market Price,executed
+2025-04-05 12:05:33.185332,BTC-USD,5,market,Market Price,executed
+2025-04-05 12:05:33.475462,BTC-USD,5,market,Market Price,executed
+2025-04-05 12:05:33.866719,BTC-USD,5,market,Market Price,executed
+2025-04-05 12:05:34.155049,BTC-USD,5,market,Market Price,executed
+2025-04-05 12:05:34.410311,BTC-USD,2,market,Market Price,executed
+2025-04-05 12:05:34.844662,BTC-USD,3,market,Market Price,executed
+2025-04-05 12:05:35.084881,BTC-USD,5,market,Market Price,executed
+2025-04-05 12:05:35.401281,BTC-USD,5,market,Market Price,executed
+2025-04-05 12:05:35.837299,BTC-USD,2,market,Market Price,executed
+2025-04-05 12:05:36.143423,BTC-USD,4,market,Market Price,executed
+2025-04-05 12:05:36.636300,BTC-USD,5,market,Market Price,executed
+2025-04-05 12:05:37.087074,BTC-USD,3,market,Market Price,executed
+2025-04-05 12:05:37.386124,BTC-USD,2,market,Market Price,executed
+2025-04-05 12:05:37.584310,BTC-USD,5,market,Market Price,executed
+2025-04-05 12:05:37.851511,BTC-USD,4,market,Market Price,executed
+2025-04-05 12:05:38.196672,BTC-USD,3,market,Market Price,executed
+2025-04-05 12:05:38.638300,BTC-USD,5,market,Market Price,executed
+2025-04-05 12:05:38.827844,BTC-USD,5,market,Market Price,executed
+2025-04-05 12:05:38.942354,BTC-USD,5,market,Market Price,executed
+2025-04-05 12:05:39.207729,BTC-USD,3,market,Market Price,executed
+2025-04-05 12:05:39.628605,BTC-USD,1,market,Market Price,executed
+2025-04-05 12:05:40.075105,BTC-USD,1,market,Market Price,executed
+2025-04-05 12:05:40.546758,BTC-USD,2,market,Market Price,executed
+2025-04-05 12:05:40.899678,BTC-USD,1,market,Market Price,executed
+2025-04-05 12:05:41.071374,BTC-USD,4,market,Market Price,executed
+2025-04-05 12:05:41.490771,BTC-USD,2,market,Market Price,executed
+2025-04-05 12:05:41.858421,BTC-USD,2,market,Market Price,executed
+2025-04-05 12:05:42.117529,BTC-USD,4,market,Market Price,executed
+2025-04-05 12:16:49.401744,BTC-USD,3,market,Market Price,executed
+2025-04-05 12:16:49.651918,BTC-USD,1,market,Market Price,executed
+2025-04-05 12:16:49.992541,BTC-USD,2,market,Market Price,executed
+2025-04-05 12:16:50.153724,BTC-USD,2,market,Market Price,executed
+2025-04-05 12:16:50.518216,BTC-USD,2,market,Market Price,executed
+2025-04-05 12:16:50.880582,BTC-USD,1,market,Market Price,executed
+2025-04-05 12:16:51.006314,BTC-USD,2,market,Market Price,executed
+2025-04-05 12:16:51.473490,BTC-USD,3,market,Market Price,executed
+2025-04-05 12:16:51.660161,BTC-USD,1,market,Market Price,executed
+2025-04-05 12:16:51.856128,BTC-USD,5,market,Market Price,executed
+2025-04-05 12:16:52.253864,BTC-USD,2,market,Market Price,executed
+2025-04-05 12:16:52.548562,BTC-USD,2,market,Market Price,executed
+2025-04-05 12:16:52.673389,BTC-USD,3,market,Market Price,executed
+2025-04-05 12:16:53.066099,BTC-USD,4,market,Market Price,executed
+2025-04-05 12:16:53.262432,BTC-USD,1,market,Market Price,executed
+2025-04-05 12:16:53.375977,BTC-USD,3,market,Market Price,executed
+2025-04-05 12:16:53.818834,BTC-USD,2,market,Market Price,executed
+2025-04-05 12:16:54.175642,BTC-USD,1,market,Market Price,executed
+2025-04-05 12:16:54.587960,BTC-USD,3,market,Market Price,executed
+2025-04-05 12:16:55.045840,BTC-USD,4,market,Market Price,executed
+2025-04-05 12:16:55.377464,BTC-USD,2,market,Market Price,executed
+2025-04-05 12:16:55.634440,BTC-USD,5,market,Market Price,executed
+2025-04-05 12:16:55.758013,BTC-USD,1,market,Market Price,executed
+2025-04-05 12:16:56.152101,BTC-USD,1,market,Market Price,executed
+2025-04-05 12:16:56.285703,BTC-USD,4,market,Market Price,executed
+2025-04-05 12:16:56.718334,BTC-USD,3,market,Market Price,executed
+2025-04-05 12:16:57.156117,BTC-USD,5,market,Market Price,executed
+2025-04-05 12:16:57.626352,BTC-USD,4,market,Market Price,executed
+2025-04-05 12:16:57.802800,BTC-USD,4,market,Market Price,executed
+2025-04-05 12:16:58.135030,BTC-USD,2,market,Market Price,executed
+2025-04-05 12:16:58.544100,BTC-USD,5,market,Market Price,executed
+2025-04-05 12:16:58.715655,BTC-USD,2,market,Market Price,executed
+2025-04-05 12:16:59.071544,BTC-USD,4,market,Market Price,executed
+2025-04-05 12:16:59.196536,BTC-USD,4,market,Market Price,executed
+2025-04-05 12:16:59.572317,BTC-USD,4,market,Market Price,executed
+2025-04-05 12:17:00.027848,BTC-USD,4,market,Market Price,executed
+2025-04-05 12:17:00.498038,BTC-USD,2,market,Market Price,executed
+2025-04-05 12:17:00.742487,BTC-USD,2,market,Market Price,executed
+2025-04-05 12:17:01.163512,BTC-USD,2,market,Market Price,executed
+2025-04-05 12:17:01.477725,BTC-USD,5,market,Market Price,executed
+2025-04-05 12:17:01.766434,BTC-USD,3,market,Market Price,executed
+2025-04-05 12:17:02.142552,BTC-USD,4,market,Market Price,executed
+2025-04-05 12:17:02.420490,BTC-USD,4,market,Market Price,executed
+2025-04-05 12:17:02.868077,BTC-USD,5,market,Market Price,executed
+2025-04-05 12:17:03.341976,BTC-USD,2,market,Market Price,executed
+2025-04-05 12:17:03.781522,BTC-USD,1,market,Market Price,executed
+2025-04-05 12:17:03.957239,BTC-USD,5,market,Market Price,executed
+2025-04-05 12:17:04.373748,BTC-USD,5,market,Market Price,executed
+2025-04-05 12:17:04.642773,BTC-USD,4,market,Market Price,executed
+2025-04-05 12:17:05.003307,BTC-USD,1,market,Market Price,executed
+2025-04-05 12:17:05.377007,BTC-USD,1,market,Market Price,executed
+2025-04-05 12:17:05.513431,BTC-USD,2,market,Market Price,executed
+2025-04-05 12:17:05.795050,BTC-USD,1,market,Market Price,executed
+2025-04-05 12:17:06.087717,BTC-USD,1,market,Market Price,executed
+2025-04-05 12:17:06.193030,BTC-USD,5,market,Market Price,executed
+2025-04-05 12:17:06.452817,BTC-USD,2,market,Market Price,executed
+2025-04-05 12:17:06.694815,BTC-USD,3,market,Market Price,executed
+2025-04-05 12:17:07.024530,BTC-USD,1,market,Market Price,executed
+2025-04-05 12:17:07.327089,BTC-USD,1,market,Market Price,executed
+2025-04-05 12:17:07.724911,BTC-USD,2,market,Market Price,executed
+2025-04-05 12:17:08.040036,BTC-USD,5,market,Market Price,executed
+2025-04-05 12:17:08.174747,BTC-USD,4,market,Market Price,executed
+2025-04-05 12:17:08.525404,BTC-USD,4,market,Market Price,executed
+2025-04-05 12:17:08.655700,BTC-USD,4,market,Market Price,executed
+2025-04-05 12:17:08.806354,BTC-USD,3,market,Market Price,executed
+2025-04-05 12:17:08.960526,BTC-USD,1,market,Market Price,executed
+2025-04-05 12:17:09.449443,BTC-USD,5,market,Market Price,executed
+2025-04-05 12:17:09.661241,BTC-USD,5,market,Market Price,executed
+2025-04-05 12:17:09.903948,BTC-USD,2,market,Market Price,executed
+2025-04-05 12:17:10.101316,BTC-USD,5,market,Market Price,executed
+2025-04-05 12:17:10.526483,BTC-USD,1,market,Market Price,executed
+2025-04-05 12:17:10.865611,BTC-USD,2,market,Market Price,executed
+2025-04-05 12:17:10.989387,BTC-USD,1,market,Market Price,executed
+2025-04-05 12:17:11.150911,BTC-USD,4,market,Market Price,executed
+2025-04-05 12:17:11.322256,BTC-USD,4,market,Market Price,executed
+2025-04-05 12:17:11.517216,BTC-USD,5,market,Market Price,executed
+2025-04-05 12:17:11.819564,BTC-USD,3,market,Market Price,executed
+2025-04-05 12:17:12.210741,BTC-USD,2,market,Market Price,executed
+2025-04-05 12:17:12.610798,BTC-USD,5,market,Market Price,executed
+2025-04-05 12:17:13.019606,BTC-USD,5,market,Market Price,executed
+2025-04-05 12:17:13.157655,BTC-USD,3,market,Market Price,executed
+2025-04-05 12:17:13.629670,BTC-USD,4,market,Market Price,executed
+2025-04-05 12:17:14.103694,BTC-USD,3,market,Market Price,executed
+2025-04-05 12:17:14.492447,BTC-USD,1,market,Market Price,executed
+2025-04-05 12:17:14.883291,BTC-USD,2,market,Market Price,executed
+2025-04-05 12:17:15.312162,BTC-USD,2,market,Market Price,executed
+2025-04-05 12:17:15.568778,BTC-USD,1,market,Market Price,executed
+2025-04-05 12:17:15.867914,BTC-USD,3,market,Market Price,executed
+2025-04-05 12:17:16.352663,BTC-USD,1,market,Market Price,executed
+2025-04-05 12:17:16.826552,BTC-USD,3,market,Market Price,executed
+2025-04-05 12:17:17.294247,BTC-USD,2,market,Market Price,executed
+2025-04-05 12:17:17.684883,BTC-USD,2,market,Market Price,executed
+2025-04-05 12:17:18.103662,BTC-USD,4,market,Market Price,executed
+2025-04-05 12:17:18.521321,BTC-USD,5,market,Market Price,executed
+2025-04-05 12:17:18.808696,BTC-USD,2,market,Market Price,executed
+2025-04-05 12:17:19.034174,BTC-USD,1,market,Market Price,executed
+2025-04-05 12:17:19.402763,BTC-USD,1,market,Market Price,executed
+2025-04-05 12:17:19.551044,BTC-USD,2,market,Market Price,executed
+2025-04-05 12:17:19.730157,BTC-USD,2,market,Market Price,executed
+2025-04-05 12:17:20.005623,BTC-USD,2,market,Market Price,executed
+2025-04-05 12:17:20.358594,BTC-USD,4,market,Market Price,executed
+2025-04-05 12:17:20.622712,BTC-USD,2,market,Market Price,executed
+2025-04-05 12:17:21.103772,BTC-USD,4,market,Market Price,executed
+2025-04-05 12:17:21.351281,BTC-USD,2,market,Market Price,executed
+2025-04-05 12:17:21.586999,BTC-USD,2,market,Market Price,executed
+2025-04-05 12:17:21.765525,BTC-USD,2,market,Market Price,executed
+2025-04-05 12:17:22.247509,BTC-USD,3,market,Market Price,executed
+2025-04-05 12:17:22.658155,BTC-USD,4,market,Market Price,executed
+2025-04-05 12:17:22.796637,BTC-USD,1,market,Market Price,executed
+2025-04-05 12:17:23.049157,BTC-USD,1,market,Market Price,executed
+2025-04-05 12:17:23.276729,BTC-USD,4,market,Market Price,executed
+2025-04-05 12:17:23.744292,BTC-USD,1,market,Market Price,executed
+2025-04-05 12:17:23.915816,BTC-USD,5,market,Market Price,executed
+2025-04-05 12:17:24.231515,BTC-USD,4,market,Market Price,executed
+2025-04-05 12:18:40.691431,BTC-USD,4,market,Market Price,executed
+2025-04-05 12:18:41.694692,BTC-USD,4,market,Market Price,executed
+2025-04-05 12:18:42.698266,BTC-USD,1,market,Market Price,executed
+2025-04-05 12:18:43.699891,BTC-USD,4,market,Market Price,executed
+2025-04-05 12:18:44.701413,BTC-USD,5,market,Market Price,executed
+2025-04-05 12:18:45.702644,BTC-USD,5,market,Market Price,executed
+2025-04-05 12:18:46.705630,BTC-USD,2,market,Market Price,executed
+2025-04-05 12:18:47.707543,BTC-USD,2,market,Market Price,executed
+2025-04-05 12:18:48.708715,BTC-USD,3,market,Market Price,executed
+2025-04-05 12:18:49.712114,BTC-USD,4,market,Market Price,executed
+2025-04-05 12:18:50.715546,BTC-USD,1,market,Market Price,executed
+2025-04-05 12:18:51.717410,BTC-USD,2,market,Market Price,executed
+2025-04-05 12:18:52.719834,BTC-USD,2,market,Market Price,executed
+2025-04-05 12:18:53.722655,BTC-USD,2,market,Market Price,executed
+2025-04-05 12:18:54.724457,BTC-USD,4,market,Market Price,executed
+2025-04-05 12:18:55.726606,BTC-USD,2,market,Market Price,executed
+2025-04-05 12:18:56.729690,BTC-USD,4,market,Market Price,executed
+2025-04-05 12:18:57.731358,BTC-USD,1,market,Market Price,executed
+2025-04-05 12:18:58.733642,BTC-USD,4,market,Market Price,executed
+2025-04-05 12:18:59.735730,BTC-USD,5,market,Market Price,executed
+2025-04-05 12:19:00.738361,BTC-USD,1,market,Market Price,executed
+2025-04-05 12:19:01.740461,BTC-USD,4,market,Market Price,executed
+2025-04-05 12:19:02.743667,BTC-USD,4,market,Market Price,executed
+2025-04-05 12:19:03.746020,BTC-USD,4,market,Market Price,executed
+2025-04-05 12:19:04.748128,BTC-USD,1,market,Market Price,executed
+2025-04-05 12:19:05.750398,BTC-USD,2,market,Market Price,executed
+2025-04-05 12:19:06.753242,BTC-USD,1,market,Market Price,executed
+2025-04-05 12:19:07.755829,BTC-USD,3,market,Market Price,executed
+2025-04-05 12:19:08.757493,BTC-USD,2,market,Market Price,executed
+2025-04-05 12:19:09.759387,BTC-USD,3,market,Market Price,executed
+2025-04-05 12:19:10.761493,BTC-USD,3,market,Market Price,executed
+2025-04-05 12:20:44.517640,BTC-USD,2,market,Market Price,executed
+2025-04-05 12:20:45.519872,BTC-USD,3,market,Market Price,executed
+2025-04-05 12:20:46.522381,BTC-USD,2,market,Market Price,executed
+2025-04-05 12:20:47.523793,BTC-USD,2,market,Market Price,executed
+2025-04-05 12:20:48.526219,BTC-USD,3,market,Market Price,executed
+2025-04-05 12:20:49.530379,BTC-USD,5,market,Market Price,executed
+2025-04-05 12:20:50.533050,BTC-USD,4,market,Market Price,executed
+2025-04-05 12:20:51.535479,BTC-USD,4,market,Market Price,executed
+2025-04-05 12:20:52.537543,BTC-USD,4,market,Market Price,executed
+2025-04-05 12:20:53.538840,BTC-USD,5,market,Market Price,executed
+2025-04-05 12:20:54.542527,BTC-USD,4,market,Market Price,executed
+2025-04-05 12:20:55.543978,BTC-USD,3,market,Market Price,executed
+2025-04-05 12:20:56.547826,BTC-USD,3,market,Market Price,executed
+2025-04-05 12:20:57.549721,BTC-USD,4,market,Market Price,executed
+2025-04-05 12:20:58.551245,BTC-USD,3,market,Market Price,executed
+2025-04-05 12:20:59.553140,BTC-USD,2,market,Market Price,executed
+2025-04-05 12:21:00.554729,BTC-USD,2,market,Market Price,executed
+2025-04-05 12:21:01.556700,BTC-USD,4,market,Market Price,executed
+2025-04-05 12:21:02.559112,BTC-USD,4,market,Market Price,executed
+2025-04-05 12:21:03.561851,BTC-USD,4,market,Market Price,executed
+2025-04-05 12:21:04.564198,BTC-USD,3,market,Market Price,executed
+2025-04-05 12:21:05.567368,BTC-USD,5,market,Market Price,executed
+2025-04-05 12:21:06.569743,BTC-USD,5,market,Market Price,executed
+2025-04-05 12:21:07.571129,BTC-USD,1,market,Market Price,executed
+2025-04-05 12:21:08.573396,BTC-USD,2,market,Market Price,executed
+2025-04-05 12:21:09.575604,BTC-USD,4,market,Market Price,executed
+2025-04-05 12:21:10.577725,BTC-USD,5,market,Market Price,executed
+2025-04-05 12:21:11.588403,BTC-USD,3,market,Market Price,executed
+2025-04-05 12:21:12.619206,BTC-USD,3,market,Market Price,executed
+2025-04-05 12:22:45.354577,BTC-USD,5,market,Market Price,executed
+2025-04-05 12:22:46.364333,BTC-USD,2,market,Market Price,executed
+2025-04-05 12:22:47.368055,BTC-USD,4,market,Market Price,executed
+2025-04-05 12:22:48.370799,BTC-USD,2,market,Market Price,executed
+2025-04-05 12:22:49.372565,BTC-USD,5,market,Market Price,executed
+2025-04-05 12:22:50.376482,BTC-USD,2,market,Market Price,executed
+2025-04-05 12:22:51.378961,BTC-USD,3,market,Market Price,executed
+2025-04-05 12:22:52.381389,BTC-USD,4,market,Market Price,executed
+2025-04-05 12:22:53.390394,BTC-USD,5,market,Market Price,executed
+2025-04-05 12:22:54.391717,BTC-USD,3,market,Market Price,executed
+2025-04-05 12:22:55.393826,BTC-USD,5,market,Market Price,executed
+2025-04-05 12:22:56.397107,BTC-USD,3,market,Market Price,executed
+2025-04-05 12:22:57.398251,BTC-USD,4,market,Market Price,executed
+2025-04-05 12:22:58.401026,BTC-USD,1,market,Market Price,executed
+2025-04-05 12:22:59.402526,BTC-USD,5,market,Market Price,executed
+2025-04-05 12:23:00.404468,BTC-USD,4,market,Market Price,executed
+2025-04-05 12:23:01.407185,BTC-USD,5,market,Market Price,executed
+2025-04-05 12:23:02.410069,BTC-USD,5,market,Market Price,executed
+2025-04-05 12:23:03.411578,BTC-USD,4,market,Market Price,executed
+2025-04-05 12:23:04.413795,BTC-USD,5,market,Market Price,executed
+2025-04-05 12:23:05.415418,BTC-USD,5,market,Market Price,executed
+2025-04-05 12:23:06.416560,BTC-USD,3,market,Market Price,executed
+2025-04-05 12:23:07.418953,BTC-USD,3,market,Market Price,executed
+2025-04-05 12:23:08.420425,BTC-USD,1,market,Market Price,executed
+2025-04-05 12:23:09.421567,BTC-USD,4,market,Market Price,executed
+2025-04-05 12:23:10.422915,BTC-USD,3,market,Market Price,executed
+2025-04-05 12:23:11.424907,BTC-USD,3,market,Market Price,executed
+2025-04-05 12:23:12.428219,BTC-USD,1,market,Market Price,executed
+2025-04-05 12:23:13.431038,BTC-USD,4,market,Market Price,executed
+2025-04-05 12:23:14.433122,BTC-USD,2,market,Market Price,executed
+2025-04-05T06:54:50.369686,BTC-USD,1,market,Market Price,executed
+2025-04-05T06:54:51.383664,BTC-USD,1,market,Market Price,executed
+2025-04-05T06:54:52.386017,BTC-USD,4,market,Market Price,executed
+2025-04-05T06:54:53.387742,BTC-USD,3,market,Market Price,executed
+2025-04-05T06:54:54.390631,BTC-USD,4,market,Market Price,executed
+2025-04-05T06:54:55.392259,BTC-USD,4,market,Market Price,executed
+2025-04-05T06:54:56.394275,BTC-USD,3,market,Market Price,executed
+2025-04-05T06:54:57.397152,BTC-USD,3,market,Market Price,executed
+2025-04-05T06:54:58.399816,BTC-USD,3,market,Market Price,executed
+2025-04-05T06:54:59.403033,BTC-USD,3,market,Market Price,executed
+2025-04-05T06:55:00.405145,BTC-USD,1,market,Market Price,executed
+2025-04-05T06:55:01.407485,BTC-USD,4,market,Market Price,executed
+2025-04-05T06:55:02.410141,BTC-USD,2,market,Market Price,executed
+2025-04-05T06:55:03.411270,BTC-USD,4,market,Market Price,executed
+2025-04-05T06:55:04.412642,BTC-USD,5,market,Market Price,executed
+2025-04-05T06:55:05.414615,BTC-USD,3,market,Market Price,executed
+2025-04-05T06:55:06.418159,BTC-USD,4,market,Market Price,executed
+2025-04-05T06:55:07.421719,BTC-USD,4,market,Market Price,executed
+2025-04-05T06:55:08.423569,BTC-USD,5,market,Market Price,executed
+2025-04-05T06:55:09.424613,BTC-USD,3,market,Market Price,executed
+2025-04-05T06:55:10.426263,BTC-USD,1,market,Market Price,executed
+2025-04-05T06:55:11.428366,BTC-USD,3,market,Market Price,executed
+2025-04-05T06:55:12.429991,BTC-USD,2,market,Market Price,executed
+2025-04-05T06:55:13.431414,BTC-USD,4,market,Market Price,executed
+2025-04-05T06:55:14.433114,BTC-USD,3,market,Market Price,executed
+2025-04-05T06:55:15.434578,BTC-USD,4,market,Market Price,executed
+2025-04-05T06:55:16.435921,BTC-USD,3,market,Market Price,executed
+2025-04-05T06:55:17.437195,BTC-USD,4,market,Market Price,executed
+2025-04-05T06:55:18.438388,BTC-USD,1,market,Market Price,executed
+2025-04-05T06:55:19.440180,BTC-USD,1,market,Market Price,executed
+2025-04-05T06:55:20.441786,BTC-USD,5,market,Market Price,executed
+2025-04-05T06:55:21.444447,BTC-USD,4,market,Market Price,executed
+2025-04-05T06:55:22.446162,BTC-USD,4,market,Market Price,executed
+2025-04-05T06:55:23.447276,BTC-USD,2,market,Market Price,executed
+2025-04-05T06:55:24.449257,BTC-USD,5,market,Market Price,executed
+2025-04-05T06:55:25.451220,BTC-USD,2,market,Market Price,executed
+2025-04-05T06:55:26.452938,BTC-USD,3,market,Market Price,executed
+2025-04-05T06:55:27.454877,BTC-USD,1,market,Market Price,executed
+2025-04-05T06:55:28.457050,BTC-USD,1,market,Market Price,executed
+2025-04-05T06:55:29.458213,BTC-USD,5,market,Market Price,executed
+2025-04-05T06:55:30.459574,BTC-USD,1,market,Market Price,executed
+2025-04-05T06:55:31.460924,BTC-USD,3,market,Market Price,executed
+2025-04-05T06:55:32.462276,BTC-USD,3,market,Market Price,executed
+2025-04-05T06:55:33.463724,BTC-USD,1,market,Market Price,executed
+2025-04-05T06:55:34.471616,BTC-USD,3,market,Market Price,executed
+2025-04-05T06:55:35.474793,BTC-USD,4,market,Market Price,executed
+2025-04-05T06:56:04.348558,BTC-USD,4,market,Market Price,executed
+2025-04-05T06:56:05.355015,BTC-USD,3,market,Market Price,executed
+2025-04-05T06:56:06.356526,BTC-USD,5,market,Market Price,executed
+2025-04-05T06:56:07.358139,BTC-USD,3,market,Market Price,executed
+2025-04-05T06:56:08.361223,BTC-USD,2,market,Market Price,executed
+2025-04-05T06:56:09.369828,BTC-USD,2,market,Market Price,executed
+2025-04-05T06:56:10.372395,BTC-USD,4,market,Market Price,executed
+2025-04-05T06:56:11.374034,BTC-USD,2,market,Market Price,executed
+2025-04-05T06:56:12.376419,BTC-USD,5,market,Market Price,executed
+2025-04-05T06:56:13.378141,BTC-USD,4,market,Market Price,executed
+2025-04-05T06:56:14.380856,BTC-USD,2,market,Market Price,executed
+2025-04-05T06:56:15.383406,BTC-USD,2,market,Market Price,executed
+2025-04-05T06:56:16.386190,BTC-USD,2,market,Market Price,executed
+2025-04-05T06:56:17.388385,BTC-USD,1,market,Market Price,executed
+2025-04-05T06:56:18.391251,BTC-USD,2,market,Market Price,executed
+2025-04-05T06:56:19.398772,BTC-USD,2,market,Market Price,executed
+2025-04-05T06:56:20.402084,BTC-USD,5,market,Market Price,executed
+2025-04-05T06:56:21.404452,BTC-USD,2,market,Market Price,executed
+2025-04-05T06:56:22.406195,BTC-USD,1,market,Market Price,executed
+2025-04-05T06:56:23.408911,BTC-USD,1,market,Market Price,executed
+2025-04-05T06:56:24.411099,BTC-USD,3,market,Market Price,executed
+2025-04-05T06:56:25.414528,BTC-USD,1,market,Market Price,executed
+2025-04-05T06:56:26.417582,BTC-USD,5,market,Market Price,executed
+2025-04-05T06:56:27.419024,BTC-USD,3,market,Market Price,executed
+2025-04-05T06:56:28.421467,BTC-USD,1,market,Market Price,executed
+2025-04-05T06:56:29.424799,BTC-USD,4,market,Market Price,executed
+2025-04-05T10:47:53.943000,BTC-USD,3,market,Market Price,executed
+2025-04-05T10:47:54.949542,BTC-USD,3,market,Market Price,executed
+2025-04-05T10:47:55.951212,BTC-USD,4,market,Market Price,executed
+2025-04-05T10:47:56.952541,BTC-USD,4,market,Market Price,executed
+2025-04-05T10:47:57.962631,BTC-USD,5,market,Market Price,executed
+2025-04-05T10:47:58.967102,BTC-USD,4,market,Market Price,executed
+2025-04-05T10:47:59.969842,BTC-USD,4,market,Market Price,executed
+2025-04-05T10:48:00.972006,BTC-USD,2,market,Market Price,executed
+2025-04-05T10:48:01.973642,BTC-USD,3,market,Market Price,executed
+2025-04-05T10:48:02.984276,BTC-USD,3,market,Market Price,executed
+2025-04-05T10:48:03.987307,BTC-USD,3,market,Market Price,executed
+2025-04-05T10:48:04.989059,BTC-USD,5,market,Market Price,executed
+2025-04-05T10:48:05.991451,BTC-USD,2,market,Market Price,executed
+2025-04-05T10:48:06.992897,BTC-USD,3,market,Market Price,executed
+2025-04-05T10:48:07.994771,BTC-USD,2,market,Market Price,executed
+2025-04-05T10:48:08.998364,BTC-USD,5,market,Market Price,executed
+2025-04-05T10:48:10.000892,BTC-USD,2,market,Market Price,executed
+2025-04-05T10:48:11.002100,BTC-USD,4,market,Market Price,executed
+2025-04-05T10:48:12.004675,BTC-USD,2,market,Market Price,executed
+2025-04-05T10:48:13.006114,BTC-USD,3,market,Market Price,executed
+2025-04-05T10:48:14.008881,BTC-USD,5,market,Market Price,executed
+2025-04-05T10:48:15.011154,BTC-USD,1,market,Market Price,executed
+2025-04-05T10:48:16.013643,BTC-USD,5,market,Market Price,executed
+2025-04-05T10:48:17.029353,BTC-USD,1,market,Market Price,executed
+2025-04-05T10:48:18.031428,BTC-USD,4,market,Market Price,executed
+2025-04-05T10:48:19.035143,BTC-USD,4,market,Market Price,executed
+2025-04-05T10:48:20.038496,BTC-USD,4,market,Market Price,executed
+2025-04-05T10:48:21.039566,BTC-USD,2,market,Market Price,executed
+2025-04-05T10:48:22.041516,BTC-USD,1,market,Market Price,executed
+2025-04-05T10:48:23.042800,BTC-USD,1,market,Market Price,executed
+2025-04-05T10:48:24.044171,BTC-USD,5,market,Market Price,executed
+2025-04-05T10:48:25.046064,BTC-USD,2,market,Market Price,executed
+2025-04-05T10:48:26.047417,BTC-USD,3,market,Market Price,executed
+2025-04-05T10:48:27.048813,BTC-USD,3,market,Market Price,executed
+2025-04-05T10:48:28.052534,BTC-USD,1,market,Market Price,executed
+2025-04-05T10:48:29.055655,BTC-USD,5,market,Market Price,executed
+2025-04-05T10:48:30.056629,BTC-USD,3,market,Market Price,executed
+2025-04-05T10:48:31.059032,BTC-USD,1,market,Market Price,executed
+2025-04-05T10:48:32.063752,BTC-USD,4,market,Market Price,executed
+2025-04-05T10:48:33.065474,BTC-USD,5,market,Market Price,executed
+2025-04-05T10:48:34.068320,BTC-USD,5,market,Market Price,executed
+2025-04-05T10:48:35.072119,BTC-USD,1,market,Market Price,executed
+2025-04-05T10:48:36.073383,BTC-USD,2,market,Market Price,executed
+2025-04-05T10:48:37.075753,BTC-USD,1,market,Market Price,executed
+2025-04-05T10:48:38.080337,BTC-USD,3,market,Market Price,executed
+2025-04-05T10:48:39.082867,BTC-USD,5,market,Market Price,executed
+2025-04-05T10:48:40.085708,BTC-USD,3,market,Market Price,executed
+2025-04-05T10:48:41.088223,BTC-USD,1,market,Market Price,executed
+2025-04-05T10:48:42.090661,BTC-USD,1,market,Market Price,executed
+2025-04-05T10:48:43.093430,BTC-USD,5,market,Market Price,executed
+2025-04-05T10:48:44.095881,BTC-USD,1,market,Market Price,executed
+2025-04-05T10:48:45.099525,BTC-USD,4,market,Market Price,executed
+2025-04-05T10:48:46.102216,BTC-USD,4,market,Market Price,executed
+2025-04-05T10:48:47.103488,BTC-USD,4,market,Market Price,executed
+2025-04-05T10:48:48.105168,BTC-USD,5,market,Market Price,executed
+2025-04-05T10:48:49.109003,BTC-USD,4,market,Market Price,executed
+2025-04-05T10:48:50.111516,BTC-USD,5,market,Market Price,executed
+2025-04-05T10:48:51.113966,BTC-USD,1,market,Market Price,executed
+2025-04-05T10:48:52.116478,BTC-USD,4,market,Market Price,executed
+2025-04-05T10:48:53.120128,BTC-USD,4,market,Market Price,executed
+2025-04-05T10:48:54.122075,BTC-USD,2,market,Market Price,executed
+2025-04-05T10:48:55.124919,BTC-USD,1,market,Market Price,executed
+2025-04-05T10:51:15.608516,BTC-USD,5,market,Market Price,executed
+2025-04-05T10:51:16.613085,BTC-USD,4,market,Market Price,executed
+2025-04-05T10:51:17.616318,BTC-USD,1,market,Market Price,executed
+2025-04-05T10:51:18.618077,BTC-USD,1,market,Market Price,executed
+2025-04-05T10:51:19.620178,BTC-USD,2,market,Market Price,executed
+2025-04-05T10:51:20.622071,BTC-USD,4,market,Market Price,executed
+2025-04-05T10:51:21.624548,BTC-USD,2,market,Market Price,executed
+2025-04-05T10:51:22.627265,BTC-USD,3,market,Market Price,executed
+2025-04-05T10:51:23.632026,BTC-USD,2,market,Market Price,executed
+2025-04-05T10:51:24.633627,BTC-USD,2,market,Market Price,executed
+2025-04-05T10:51:25.636635,BTC-USD,2,market,Market Price,executed
+2025-04-05T10:51:26.639798,BTC-USD,3,market,Market Price,executed
+2025-04-05T10:51:27.641366,BTC-USD,4,market,Market Price,executed
+2025-04-05T10:51:28.645395,BTC-USD,2,market,Market Price,executed
+2025-04-05T10:51:29.657444,BTC-USD,1,market,Market Price,executed
+2025-04-05T10:51:30.693437,BTC-USD,5,market,Market Price,executed
+2025-04-05T10:51:31.699792,BTC-USD,3,market,Market Price,executed
+2025-04-05T10:51:32.701261,BTC-USD,3,market,Market Price,executed
+2025-04-05T10:51:33.703698,BTC-USD,3,market,Market Price,executed
+2025-04-05T10:51:34.705991,BTC-USD,5,market,Market Price,executed
+2025-04-05T10:51:35.709078,BTC-USD,5,market,Market Price,executed
+2025-04-05T10:51:36.710978,BTC-USD,2,market,Market Price,executed
+2025-04-05T10:51:37.712381,BTC-USD,1,market,Market Price,executed
+2025-04-05T10:51:38.713918,BTC-USD,3,market,Market Price,executed
+2025-04-05T10:51:39.715516,BTC-USD,4,market,Market Price,executed
+2025-04-05T10:55:41.588538,BTC-USD,1,market,Market Price,executed
+2025-04-05T10:55:42.591223,BTC-USD,5,market,Market Price,executed
+2025-04-05T10:55:43.593022,BTC-USD,2,market,Market Price,executed
+2025-04-05T10:55:44.594751,BTC-USD,2,market,Market Price,executed
+2025-04-05T10:55:45.596908,BTC-USD,2,market,Market Price,executed
+2025-04-05T10:55:46.599714,BTC-USD,2,market,Market Price,executed
+2025-04-05T10:55:47.602118,BTC-USD,5,market,Market Price,executed
+2025-04-05T10:55:48.605040,BTC-USD,3,market,Market Price,executed
+2025-04-05T10:55:49.607707,BTC-USD,2,market,Market Price,executed
+2025-04-05T10:55:50.610572,BTC-USD,2,market,Market Price,executed
+2025-04-05T10:55:51.611919,BTC-USD,5,market,Market Price,executed
+2025-04-05T10:55:52.614000,BTC-USD,4,market,Market Price,executed
+2025-04-05T10:55:53.615942,BTC-USD,4,market,Market Price,executed
+2025-04-05T10:55:54.617723,BTC-USD,5,market,Market Price,executed
+2025-04-05T10:55:55.621252,BTC-USD,5,market,Market Price,executed
+2025-04-05T10:55:56.625215,BTC-USD,2,market,Market Price,executed
+2025-04-05T10:55:57.628367,BTC-USD,4,market,Market Price,executed
+2025-04-05T10:55:58.631500,BTC-USD,1,market,Market Price,executed
+2025-04-05T10:55:59.633708,BTC-USD,3,market,Market Price,executed
+2025-04-05T10:56:00.636205,BTC-USD,5,market,Market Price,executed
+2025-04-05T10:56:01.638021,BTC-USD,4,market,Market Price,executed
+2025-04-05T10:56:02.640547,BTC-USD,2,market,Market Price,executed
+2025-04-05T10:56:03.643395,BTC-USD,5,market,Market Price,executed
+2025-04-05T10:56:04.646449,BTC-USD,3,market,Market Price,executed
+2025-04-05T10:56:05.648744,BTC-USD,4,market,Market Price,executed
+2025-04-05T10:56:06.650638,BTC-USD,5,market,Market Price,executed
+2025-04-05T10:56:07.653542,BTC-USD,2,market,Market Price,executed
+2025-04-05T10:56:08.655566,BTC-USD,5,market,Market Price,executed
+2025-04-05T10:56:09.657300,BTC-USD,5,market,Market Price,executed
+2025-04-05T10:56:10.659181,BTC-USD,1,market,Market Price,executed
+2025-04-05T10:56:11.662939,BTC-USD,2,market,Market Price,executed
+2025-04-05T10:56:12.665777,BTC-USD,1,market,Market Price,executed
+2025-04-05T10:56:13.668474,BTC-USD,4,market,Market Price,executed
+2025-04-05T10:56:14.670272,BTC-USD,1,market,Market Price,executed
+2025-04-05T10:56:15.672293,BTC-USD,5,market,Market Price,executed
+2025-04-05T10:56:16.674197,BTC-USD,5,market,Market Price,executed
+2025-04-05T10:56:17.676379,BTC-USD,4,market,Market Price,executed
+2025-04-05T10:56:18.678658,BTC-USD,1,market,Market Price,executed
+2025-04-05T10:56:19.682356,BTC-USD,2,market,Market Price,executed
+2025-04-05T10:56:20.686204,BTC-USD,1,market,Market Price,executed
+2025-04-05T10:56:21.688190,BTC-USD,5,market,Market Price,executed
+2025-04-05T10:56:22.689918,BTC-USD,2,market,Market Price,executed
+2025-04-05T10:56:23.694112,BTC-USD,5,market,Market Price,executed
+2025-04-05T10:56:24.697773,BTC-USD,3,market,Market Price,executed
+2025-04-05T10:56:25.701494,BTC-USD,2,market,Market Price,executed
+2025-04-05T10:56:26.704887,BTC-USD,1,market,Market Price,executed
+2025-04-05T10:56:27.707434,BTC-USD,2,market,Market Price,executed
+2025-04-05T10:56:28.708949,BTC-USD,5,market,Market Price,executed
+2025-04-05T10:56:29.710616,BTC-USD,4,market,Market Price,executed
+2025-04-05T10:56:30.712463,BTC-USD,3,market,Market Price,executed
+2025-04-05T10:56:31.714072,BTC-USD,3,market,Market Price,executed
+2025-04-05T10:56:32.716283,BTC-USD,5,market,Market Price,executed
+2025-04-05T10:56:33.718424,BTC-USD,2,market,Market Price,executed
+2025-04-05T10:56:34.721178,BTC-USD,2,market,Market Price,executed
+2025-04-05T10:56:35.723460,BTC-USD,5,market,Market Price,executed
+2025-04-05T10:56:36.725296,BTC-USD,2,market,Market Price,executed
+2025-04-05T10:56:37.728161,BTC-USD,1,market,Market Price,executed
+2025-04-05T10:56:38.731427,BTC-USD,1,market,Market Price,executed
+2025-04-05T10:56:39.734569,BTC-USD,5,market,Market Price,executed
+2025-04-05T10:56:40.737426,BTC-USD,3,market,Market Price,executed
+2025-04-05T10:56:41.740195,BTC-USD,5,market,Market Price,executed
+2025-04-05T10:56:42.742525,BTC-USD,2,market,Market Price,executed
+2025-04-05T10:56:43.744749,BTC-USD,3,market,Market Price,executed
+2025-04-05T10:56:44.747692,BTC-USD,4,market,Market Price,executed
+2025-04-05T10:56:45.750136,BTC-USD,2,market,Market Price,executed
+2025-04-05T10:56:46.753306,BTC-USD,3,market,Market Price,executed
+2025-04-05T10:56:47.756418,BTC-USD,2,market,Market Price,executed
+2025-04-05T10:56:48.760148,BTC-USD,5,market,Market Price,executed
+2025-04-05T10:56:49.762955,BTC-USD,2,market,Market Price,executed
+2025-04-05T10:56:50.764820,BTC-USD,2,market,Market Price,executed
+2025-04-05T10:56:51.766735,BTC-USD,5,market,Market Price,executed
+2025-04-05T10:56:52.768734,BTC-USD,1,market,Market Price,executed
+2025-04-05T10:56:53.771714,BTC-USD,5,market,Market Price,executed
+2025-04-05T10:56:54.773669,BTC-USD,4,market,Market Price,executed
+2025-04-05T10:56:55.776265,BTC-USD,5,market,Market Price,executed
+2025-04-05T10:56:56.780684,BTC-USD,2,market,Market Price,executed
+2025-04-05T10:56:57.784572,BTC-USD,5,market,Market Price,executed
+2025-04-05T10:56:58.786502,BTC-USD,4,market,Market Price,executed
+2025-04-05T10:56:59.789430,BTC-USD,2,market,Market Price,executed
+2025-04-05T10:57:00.793591,BTC-USD,5,market,Market Price,executed
+2025-04-05T10:57:01.796758,BTC-USD,2,market,Market Price,executed
+2025-04-05T10:57:02.798976,BTC-USD,3,market,Market Price,executed
+2025-04-05T10:57:03.800659,BTC-USD,1,market,Market Price,executed
+2025-04-05T10:57:04.802143,BTC-USD,3,market,Market Price,executed
+2025-04-05T10:57:05.803361,BTC-USD,5,market,Market Price,executed
+2025-04-05T10:57:06.806526,BTC-USD,4,market,Market Price,executed
+2025-04-05T10:57:07.809448,BTC-USD,2,market,Market Price,executed
+2025-04-05T10:57:08.810964,BTC-USD,4,market,Market Price,executed
+2025-04-05T10:57:09.812958,BTC-USD,3,market,Market Price,executed
+2025-04-05T10:57:10.815157,BTC-USD,4,market,Market Price,executed
+2025-04-05T10:57:11.816253,BTC-USD,5,market,Market Price,executed
+2025-04-05T10:57:12.819490,BTC-USD,4,market,Market Price,executed
+2025-04-05T10:57:13.822311,BTC-USD,1,market,Market Price,executed
+2025-04-05T10:57:14.825168,BTC-USD,3,market,Market Price,executed
+2025-04-05T10:57:15.826599,BTC-USD,3,market,Market Price,executed
+2025-04-05T10:57:16.829913,BTC-USD,5,market,Market Price,executed
+2025-04-05T10:57:17.831855,BTC-USD,1,market,Market Price,executed
+2025-04-05T10:57:18.833222,BTC-USD,2,market,Market Price,executed
+2025-04-05T10:57:19.836015,BTC-USD,2,market,Market Price,executed
+2025-04-05T10:57:20.839026,BTC-USD,2,market,Market Price,executed
+2025-04-05T10:57:21.840482,BTC-USD,1,market,Market Price,executed
+2025-04-05T10:57:22.841760,BTC-USD,1,market,Market Price,executed
+2025-04-05T10:57:23.843102,BTC-USD,1,market,Market Price,executed
+2025-04-05T10:57:24.844836,BTC-USD,3,market,Market Price,executed
+2025-04-05T10:57:25.846863,BTC-USD,3,market,Market Price,executed
+2025-04-05T10:57:26.849212,BTC-USD,3,market,Market Price,executed
+2025-04-05T10:57:27.852659,BTC-USD,1,market,Market Price,executed
+2025-04-05T10:57:28.854264,BTC-USD,5,market,Market Price,executed
+2025-04-05T10:57:29.856780,BTC-USD,2,market,Market Price,executed
+2025-04-05T10:57:30.860335,BTC-USD,4,market,Market Price,executed
+2025-04-05T10:57:31.861976,BTC-USD,2,market,Market Price,executed
+2025-04-05T10:57:32.863691,BTC-USD,3,market,Market Price,executed
+2025-04-05T10:57:33.864975,BTC-USD,4,market,Market Price,executed
+2025-04-05T10:57:34.866775,BTC-USD,3,market,Market Price,executed
+2025-04-05T10:57:35.869205,BTC-USD,2,market,Market Price,executed
+2025-04-05T10:57:36.871168,BTC-USD,1,market,Market Price,executed
+2025-04-05T10:57:37.872815,BTC-USD,4,market,Market Price,executed
+2025-04-05T10:57:38.874755,BTC-USD,2,market,Market Price,executed
+2025-04-05T10:57:39.876550,BTC-USD,3,market,Market Price,executed
+2025-04-05T10:57:40.879338,BTC-USD,3,market,Market Price,executed
+2025-04-05T10:57:41.881380,BTC-USD,3,market,Market Price,executed
+2025-04-05T10:57:42.884013,BTC-USD,1,market,Market Price,executed
+2025-04-05T10:57:43.885528,BTC-USD,1,market,Market Price,executed
+2025-04-05T10:57:44.887621,BTC-USD,3,market,Market Price,executed
+2025-04-05T10:57:45.889546,BTC-USD,3,market,Market Price,executed
+2025-04-05T10:57:46.891805,BTC-USD,3,market,Market Price,executed
+2025-04-05T10:57:47.893837,BTC-USD,4,market,Market Price,executed
+2025-04-05T10:57:48.896400,BTC-USD,2,market,Market Price,executed
+2025-04-05T10:57:49.899418,BTC-USD,1,market,Market Price,executed
+2025-04-05T10:57:50.902373,BTC-USD,3,market,Market Price,executed
+2025-04-05T10:57:51.905153,BTC-USD,3,market,Market Price,executed
+2025-04-05T10:57:52.909077,BTC-USD,5,market,Market Price,executed
+2025-04-05T10:57:53.911975,BTC-USD,5,market,Market Price,executed
+2025-04-05T10:57:54.913697,BTC-USD,3,market,Market Price,executed
+2025-04-05T10:57:55.915854,BTC-USD,4,market,Market Price,executed
+2025-04-05T10:57:56.919058,BTC-USD,2,market,Market Price,executed
+2025-04-05T10:57:57.921609,BTC-USD,3,market,Market Price,executed
+2025-04-05T10:57:58.923758,BTC-USD,1,market,Market Price,executed
+2025-04-05T10:57:59.925654,BTC-USD,2,market,Market Price,executed
+2025-04-05T10:58:00.927715,BTC-USD,3,market,Market Price,executed
+2025-04-05T10:58:01.929776,BTC-USD,2,market,Market Price,executed
+2025-04-05T10:58:02.931984,BTC-USD,5,market,Market Price,executed
+2025-04-05T10:58:03.934343,BTC-USD,4,market,Market Price,executed
+2025-04-05T10:58:04.936510,BTC-USD,4,market,Market Price,executed
+2025-04-05T10:58:05.938832,BTC-USD,3,market,Market Price,executed
+2025-04-05T10:58:06.942879,BTC-USD,1,market,Market Price,executed
+2025-04-05T10:58:07.945352,BTC-USD,1,market,Market Price,executed
+2025-04-05T10:58:08.947405,BTC-USD,3,market,Market Price,executed
+2025-04-05T10:58:09.950359,BTC-USD,1,market,Market Price,executed
+2025-04-05T10:58:10.952583,BTC-USD,2,market,Market Price,executed
+2025-04-05T10:58:11.955063,BTC-USD,4,market,Market Price,executed
+2025-04-05T10:58:12.958158,BTC-USD,4,market,Market Price,executed
+2025-04-05T10:58:13.962949,BTC-USD,1,market,Market Price,executed
+2025-04-05T10:58:14.964860,BTC-USD,1,market,Market Price,executed
+2025-04-05T10:58:15.966759,BTC-USD,2,market,Market Price,executed
+2025-04-05T10:58:16.968859,BTC-USD,3,market,Market Price,executed
+2025-04-05T10:58:17.971156,BTC-USD,3,market,Market Price,executed
+2025-04-05T10:58:18.973206,BTC-USD,4,market,Market Price,executed
+2025-04-05T10:58:19.975046,BTC-USD,1,market,Market Price,executed
+2025-04-05T10:58:20.981662,BTC-USD,2,market,Market Price,executed
+2025-04-05T10:58:21.983930,BTC-USD,1,market,Market Price,executed
+2025-04-05T10:58:22.986203,BTC-USD,5,market,Market Price,executed
+2025-04-05T10:58:23.988186,BTC-USD,1,market,Market Price,executed
+2025-04-05T10:58:24.990756,BTC-USD,2,market,Market Price,executed
+2025-04-05T10:58:25.992949,BTC-USD,5,market,Market Price,executed
+2025-04-05T10:58:26.996163,BTC-USD,5,market,Market Price,executed
+2025-04-05T10:58:27.998129,BTC-USD,1,market,Market Price,executed
+2025-04-05T10:58:29.001765,BTC-USD,2,market,Market Price,executed
+2025-04-05T10:58:30.004073,BTC-USD,3,market,Market Price,executed
+2025-04-05T10:58:31.006036,BTC-USD,2,market,Market Price,executed
+2025-04-05T10:58:32.008113,BTC-USD,4,market,Market Price,executed
+2025-04-05T10:58:33.010862,BTC-USD,3,market,Market Price,executed
+2025-04-05T10:58:34.012815,BTC-USD,2,market,Market Price,executed
+2025-04-05T10:58:35.014832,BTC-USD,3,market,Market Price,executed
+2025-04-05T10:58:36.016855,BTC-USD,3,market,Market Price,executed
+2025-04-05T10:58:37.019957,BTC-USD,5,market,Market Price,executed
+2025-04-05T10:58:38.022438,BTC-USD,3,market,Market Price,executed
+2025-04-05T10:58:39.024278,BTC-USD,4,market,Market Price,executed
+2025-04-05T10:58:40.026654,BTC-USD,5,market,Market Price,executed
+2025-04-05T10:58:41.028487,BTC-USD,5,market,Market Price,executed
+2025-04-05T10:58:42.030606,BTC-USD,5,market,Market Price,executed
+2025-04-05T10:58:43.033015,BTC-USD,2,market,Market Price,executed
+2025-04-05T10:58:44.037809,BTC-USD,5,market,Market Price,executed
+2025-04-05T10:58:45.044266,BTC-USD,4,market,Market Price,executed
+2025-04-05T10:58:46.046130,BTC-USD,5,market,Market Price,executed
+2025-04-05T10:58:47.048054,BTC-USD,1,market,Market Price,executed
+2025-04-05T10:58:48.049629,BTC-USD,3,market,Market Price,executed
+2025-04-05T10:58:49.051580,BTC-USD,2,market,Market Price,executed
+2025-04-05T10:58:50.054110,BTC-USD,4,market,Market Price,executed
+2025-04-05T10:58:51.056821,BTC-USD,4,market,Market Price,executed
+2025-04-05T10:58:52.060274,BTC-USD,3,market,Market Price,executed
+2025-04-05T10:58:53.062083,BTC-USD,3,market,Market Price,executed
+2025-04-05T10:58:54.063782,BTC-USD,2,market,Market Price,executed
+2025-04-05T10:58:55.066870,BTC-USD,5,market,Market Price,executed
+2025-04-05T10:58:56.082217,BTC-USD,4,market,Market Price,executed
+2025-04-05T10:58:57.083226,BTC-USD,2,market,Market Price,executed
+2025-04-05T10:58:58.084766,BTC-USD,5,market,Market Price,executed
+2025-04-05T10:58:59.086167,BTC-USD,5,market,Market Price,executed
+2025-04-05T10:59:00.087563,BTC-USD,2,market,Market Price,executed
+2025-04-05T10:59:01.089701,BTC-USD,2,market,Market Price,executed
+2025-04-05T10:59:02.091541,BTC-USD,5,market,Market Price,executed
+2025-04-05T10:59:03.094914,BTC-USD,1,market,Market Price,executed
+2025-04-05T10:59:04.096719,BTC-USD,4,market,Market Price,executed
+2025-04-05T10:59:05.098986,BTC-USD,3,market,Market Price,executed
+2025-04-05T10:59:06.102726,BTC-USD,3,market,Market Price,executed
+2025-04-05T10:59:07.105765,BTC-USD,4,market,Market Price,executed
+2025-04-05T10:59:08.108403,BTC-USD,2,market,Market Price,executed
+2025-04-05T10:59:09.110223,BTC-USD,3,market,Market Price,executed
+2025-04-05T10:59:10.114227,BTC-USD,3,market,Market Price,executed
+2025-04-05T10:59:11.116648,BTC-USD,1,market,Market Price,executed
+2025-04-05T10:59:12.119412,BTC-USD,3,market,Market Price,executed
+2025-04-05T10:59:13.122490,BTC-USD,4,market,Market Price,executed
+2025-04-05T10:59:14.125233,BTC-USD,2,market,Market Price,executed
+2025-04-05T10:59:15.129423,BTC-USD,3,market,Market Price,executed
+2025-04-05T10:59:16.132158,BTC-USD,3,market,Market Price,executed
+2025-04-05T10:59:17.136777,BTC-USD,5,market,Market Price,executed
+2025-04-05T10:59:18.139674,BTC-USD,1,market,Market Price,executed
+2025-04-05T10:59:19.141601,BTC-USD,4,market,Market Price,executed
+2025-04-05T10:59:20.144062,BTC-USD,3,market,Market Price,executed
+2025-04-05T10:59:21.146777,BTC-USD,4,market,Market Price,executed
+2025-04-05T10:59:22.148441,BTC-USD,4,market,Market Price,executed
+2025-04-05T10:59:23.150150,BTC-USD,5,market,Market Price,executed
+2025-04-05T10:59:24.153889,BTC-USD,5,market,Market Price,executed
+2025-04-05T10:59:25.156493,BTC-USD,5,market,Market Price,executed
+2025-04-05T10:59:26.158421,BTC-USD,3,market,Market Price,executed
+2025-04-05T10:59:27.160181,BTC-USD,5,market,Market Price,executed
+2025-04-05T10:59:28.163041,BTC-USD,1,market,Market Price,executed
+2025-04-05T10:59:29.165058,BTC-USD,2,market,Market Price,executed
+2025-04-05T10:59:30.166914,BTC-USD,5,market,Market Price,executed
+2025-04-05T10:59:31.169011,BTC-USD,4,market,Market Price,executed
+2025-04-05T10:59:32.171232,BTC-USD,5,market,Market Price,executed
+2025-04-05T10:59:33.173283,BTC-USD,5,market,Market Price,executed
+2025-04-05T10:59:34.175330,BTC-USD,5,market,Market Price,executed
+2025-04-05T10:59:35.179494,BTC-USD,5,market,Market Price,executed
+2025-04-05T10:59:36.181523,BTC-USD,3,market,Market Price,executed
+2025-04-05T10:59:37.183732,BTC-USD,4,market,Market Price,executed
+2025-04-05T10:59:38.188365,BTC-USD,1,market,Market Price,executed
+2025-04-05T10:59:39.190455,BTC-USD,1,market,Market Price,executed
+2025-04-05T10:59:40.194308,BTC-USD,2,market,Market Price,executed
+2025-04-05T10:59:41.195529,BTC-USD,3,market,Market Price,executed
+2025-04-05T10:59:42.197624,BTC-USD,2,market,Market Price,executed
+2025-04-05T10:59:43.199767,BTC-USD,2,market,Market Price,executed
+2025-04-05T10:59:44.202037,BTC-USD,5,market,Market Price,executed
+2025-04-05T10:59:45.203891,BTC-USD,5,market,Market Price,executed
+2025-04-05T10:59:46.205842,BTC-USD,2,market,Market Price,executed
+2025-04-05T10:59:47.207451,BTC-USD,5,market,Market Price,executed
+2025-04-05T10:59:48.208996,BTC-USD,5,market,Market Price,executed
+2025-04-05T10:59:49.213663,BTC-USD,2,market,Market Price,executed
+2025-04-05T10:59:50.239003,BTC-USD,1,market,Market Price,executed
+2025-04-05T10:59:51.242094,BTC-USD,5,market,Market Price,executed
+2025-04-05T10:59:52.245194,BTC-USD,3,market,Market Price,executed
+2025-04-05T10:59:53.250855,BTC-USD,2,market,Market Price,executed
+2025-04-05T10:59:54.255866,BTC-USD,1,market,Market Price,executed
+2025-04-05T10:59:55.257759,BTC-USD,4,market,Market Price,executed
+2025-04-05T10:59:56.260081,BTC-USD,5,market,Market Price,executed
+2025-04-05T10:59:57.262297,BTC-USD,1,market,Market Price,executed
+2025-04-05T10:59:58.264671,BTC-USD,5,market,Market Price,executed
+2025-04-05T10:59:59.267840,BTC-USD,5,market,Market Price,executed
+2025-04-05T11:00:00.269723,BTC-USD,1,market,Market Price,executed
+2025-04-05T11:00:01.272029,BTC-USD,1,market,Market Price,executed
+2025-04-05T11:00:02.274219,BTC-USD,3,market,Market Price,executed
+2025-04-05T11:00:03.276619,BTC-USD,5,market,Market Price,executed
+2025-04-05T11:00:04.278496,BTC-USD,3,market,Market Price,executed
+2025-04-05T11:00:05.280441,BTC-USD,1,market,Market Price,executed
+2025-04-05T11:00:06.282572,BTC-USD,2,market,Market Price,executed
+2025-04-05T11:00:07.285047,BTC-USD,4,market,Market Price,executed
+2025-04-05T11:00:08.287741,BTC-USD,2,market,Market Price,executed
+2025-04-05T11:00:09.290334,BTC-USD,4,market,Market Price,executed
+2025-04-05T11:00:10.292369,BTC-USD,1,market,Market Price,executed
+2025-04-05T11:00:11.294355,BTC-USD,5,market,Market Price,executed
+2025-04-05T11:00:12.296047,BTC-USD,2,market,Market Price,executed
+2025-04-05T11:00:13.297593,BTC-USD,5,market,Market Price,executed
+2025-04-05T11:00:14.300004,BTC-USD,5,market,Market Price,executed
+2025-04-05T11:00:15.302371,BTC-USD,4,market,Market Price,executed
+2025-04-05T11:00:16.304680,BTC-USD,4,market,Market Price,executed
+2025-04-05T11:00:17.306447,BTC-USD,5,market,Market Price,executed
+2025-04-05T11:00:18.308918,BTC-USD,3,market,Market Price,executed
+2025-04-05T11:00:19.310681,BTC-USD,4,market,Market Price,executed
+2025-04-05T11:00:20.312478,BTC-USD,1,market,Market Price,executed
+2025-04-05T11:00:21.315448,BTC-USD,3,market,Market Price,executed
+2025-04-05T11:00:22.317488,BTC-USD,1,market,Market Price,executed
+2025-04-05T11:00:23.319265,BTC-USD,3,market,Market Price,executed
+2025-04-05T11:00:24.322522,BTC-USD,5,market,Market Price,executed
+2025-04-05T11:00:25.328783,BTC-USD,3,market,Market Price,executed
+2025-04-05T11:00:26.332988,BTC-USD,5,market,Market Price,executed
+2025-04-05T11:00:27.336098,BTC-USD,4,market,Market Price,executed
+2025-04-05T11:00:28.338369,BTC-USD,5,market,Market Price,executed
+2025-04-05T11:00:29.340990,BTC-USD,5,market,Market Price,executed
+2025-04-05T11:00:30.343120,BTC-USD,4,market,Market Price,executed
+2025-04-05T11:00:31.348252,BTC-USD,5,market,Market Price,executed
+2025-04-05T11:00:32.349335,BTC-USD,5,market,Market Price,executed
+2025-04-05T11:00:33.351126,BTC-USD,3,market,Market Price,executed
+2025-04-05T11:00:34.352785,BTC-USD,3,market,Market Price,executed
+2025-04-05T11:00:35.354363,BTC-USD,5,market,Market Price,executed
+2025-04-05T11:00:36.356020,BTC-USD,5,market,Market Price,executed
+2025-04-05T11:00:37.358533,BTC-USD,5,market,Market Price,executed
+2025-04-05T11:00:38.360642,BTC-USD,4,market,Market Price,executed
+2025-04-05T11:00:39.363619,BTC-USD,1,market,Market Price,executed
+2025-04-05T11:00:40.366583,BTC-USD,4,market,Market Price,executed
+2025-04-05T11:00:41.369485,BTC-USD,3,market,Market Price,executed
+2025-04-05T11:00:42.372314,BTC-USD,4,market,Market Price,executed
+2025-04-05T11:00:43.374439,BTC-USD,2,market,Market Price,executed
+2025-04-05T11:00:44.377401,BTC-USD,1,market,Market Price,executed
+2025-04-05T11:00:45.379366,BTC-USD,5,market,Market Price,executed
+2025-04-05T11:00:46.382003,BTC-USD,5,market,Market Price,executed
+2025-04-05T11:00:47.384055,BTC-USD,2,market,Market Price,executed
+2025-04-05T11:00:48.386085,BTC-USD,3,market,Market Price,executed
+2025-04-05T11:00:49.389050,BTC-USD,3,market,Market Price,executed
+2025-04-05T11:00:50.391954,BTC-USD,3,market,Market Price,executed
+2025-04-05T11:00:51.394582,BTC-USD,1,market,Market Price,executed
+2025-04-05T11:00:52.396997,BTC-USD,2,market,Market Price,executed
+2025-04-05T11:00:53.398832,BTC-USD,1,market,Market Price,executed
+2025-04-05T11:00:54.401124,BTC-USD,4,market,Market Price,executed
+2025-04-05T11:00:55.405243,BTC-USD,1,market,Market Price,executed
+2025-04-05T11:00:56.407782,BTC-USD,2,market,Market Price,executed
+2025-04-05T11:00:57.410178,BTC-USD,4,market,Market Price,executed
+2025-04-05T11:00:58.413180,BTC-USD,1,market,Market Price,executed
+2025-04-05T11:00:59.415953,BTC-USD,1,market,Market Price,executed
+2025-04-05T11:01:00.419221,BTC-USD,2,market,Market Price,executed
+2025-04-05T11:01:01.422076,BTC-USD,3,market,Market Price,executed
+2025-04-05T11:01:02.423796,BTC-USD,3,market,Market Price,executed
+2025-04-05T11:01:03.426748,BTC-USD,4,market,Market Price,executed
+2025-04-05T11:01:04.430837,BTC-USD,2,market,Market Price,executed
+2025-04-05T11:01:05.432725,BTC-USD,4,market,Market Price,executed
+2025-04-05T11:01:06.434011,BTC-USD,4,market,Market Price,executed
+2025-04-05T11:01:07.436210,BTC-USD,4,market,Market Price,executed
+2025-04-05T11:01:08.438420,BTC-USD,3,market,Market Price,executed
+2025-04-05T11:01:09.440424,BTC-USD,2,market,Market Price,executed
+2025-04-05T11:01:10.443220,BTC-USD,2,market,Market Price,executed
+2025-04-05T11:01:11.446156,BTC-USD,4,market,Market Price,executed
+2025-04-05T11:01:12.448237,BTC-USD,1,market,Market Price,executed
+2025-04-05T11:01:13.449758,BTC-USD,2,market,Market Price,executed
+2025-04-05T11:01:14.451443,BTC-USD,1,market,Market Price,executed
+2025-04-05T11:01:15.453558,BTC-USD,3,market,Market Price,executed
+2025-04-05T11:01:16.455982,BTC-USD,1,market,Market Price,executed
+2025-04-05T11:01:17.459034,BTC-USD,5,market,Market Price,executed
+2025-04-05T11:01:18.461702,BTC-USD,5,market,Market Price,executed
+2025-04-05T11:01:19.463895,BTC-USD,5,market,Market Price,executed
+2025-04-05T11:01:20.465480,BTC-USD,1,market,Market Price,executed
+2025-04-05T11:01:21.467018,BTC-USD,5,market,Market Price,executed
+2025-04-05T11:01:22.471422,BTC-USD,1,market,Market Price,executed
+2025-04-05T11:01:23.473089,BTC-USD,4,market,Market Price,executed
+2025-04-05T11:01:24.474909,BTC-USD,1,market,Market Price,executed
+2025-04-05T11:01:25.477141,BTC-USD,2,market,Market Price,executed
+2025-04-05T11:01:26.479092,BTC-USD,4,market,Market Price,executed
+2025-04-05T11:01:27.481076,BTC-USD,3,market,Market Price,executed
+2025-04-05T11:01:28.483758,BTC-USD,4,market,Market Price,executed
+2025-04-05T11:01:29.486530,BTC-USD,1,market,Market Price,executed
+2025-04-05T11:01:30.489246,BTC-USD,1,market,Market Price,executed
+2025-04-05T11:01:31.491997,BTC-USD,2,market,Market Price,executed
+2025-04-05T11:01:32.494338,BTC-USD,3,market,Market Price,executed
+2025-04-05T11:01:33.496826,BTC-USD,3,market,Market Price,executed
+2025-04-05T11:01:34.500037,BTC-USD,3,market,Market Price,executed
+2025-04-05T11:01:35.502346,BTC-USD,1,market,Market Price,executed
+2025-04-05T11:01:36.504413,BTC-USD,2,market,Market Price,executed
+2025-04-05T11:01:37.506457,BTC-USD,2,market,Market Price,executed
+2025-04-05T11:01:38.508275,BTC-USD,3,market,Market Price,executed
+2025-04-05T11:01:39.510352,BTC-USD,4,market,Market Price,executed
+2025-04-05T11:01:40.512147,BTC-USD,1,market,Market Price,executed
+2025-04-05T11:01:41.513857,BTC-USD,4,market,Market Price,executed
+2025-04-05T11:01:42.515262,BTC-USD,5,market,Market Price,executed
+2025-04-05T11:01:43.517424,BTC-USD,1,market,Market Price,executed
+2025-04-05T11:01:44.519307,BTC-USD,3,market,Market Price,executed
+2025-04-05T11:01:45.520816,BTC-USD,4,market,Market Price,executed
+2025-04-05T11:01:46.524614,BTC-USD,5,market,Market Price,executed
+2025-04-05T11:01:47.528258,BTC-USD,3,market,Market Price,executed
+2025-04-05T11:01:48.530698,BTC-USD,5,market,Market Price,executed
+2025-04-05T11:01:49.532596,BTC-USD,1,market,Market Price,executed
+2025-04-05T11:01:50.534529,BTC-USD,2,market,Market Price,executed
+2025-04-05T11:01:51.537183,BTC-USD,3,market,Market Price,executed
+2025-04-05T11:01:52.539916,BTC-USD,3,market,Market Price,executed
+2025-04-05T11:01:53.542743,BTC-USD,5,market,Market Price,executed
+2025-04-05T11:01:54.545475,BTC-USD,4,market,Market Price,executed
+2025-04-05T11:01:55.548416,BTC-USD,1,market,Market Price,executed
+2025-04-05T11:01:56.550265,BTC-USD,4,market,Market Price,executed
+2025-04-05T11:01:57.553361,BTC-USD,2,market,Market Price,executed
+2025-04-05T11:01:58.556259,BTC-USD,2,market,Market Price,executed
+2025-04-05T11:01:59.558074,BTC-USD,5,market,Market Price,executed
+2025-04-05T11:02:00.560220,BTC-USD,3,market,Market Price,executed
+2025-04-05T11:02:01.562603,BTC-USD,5,market,Market Price,executed
+2025-04-05T11:02:02.564624,BTC-USD,1,market,Market Price,executed
+2025-04-05T11:02:03.567338,BTC-USD,1,market,Market Price,executed
+2025-04-05T11:02:04.569623,BTC-USD,3,market,Market Price,executed
+2025-04-05T11:02:05.571608,BTC-USD,5,market,Market Price,executed
+2025-04-05T11:02:06.573413,BTC-USD,4,market,Market Price,executed
+2025-04-05T11:02:07.575302,BTC-USD,4,market,Market Price,executed
+2025-04-05T11:02:08.578185,BTC-USD,2,market,Market Price,executed
+2025-04-05T11:02:09.581249,BTC-USD,4,market,Market Price,executed
+2025-04-05T11:02:10.583491,BTC-USD,5,market,Market Price,executed
+2025-04-05T11:02:11.585468,BTC-USD,4,market,Market Price,executed
+2025-04-05T11:02:12.587340,BTC-USD,4,market,Market Price,executed
+2025-04-05T11:02:13.588899,BTC-USD,5,market,Market Price,executed
+2025-04-05T11:02:14.606415,BTC-USD,5,market,Market Price,executed
+2025-04-05T11:02:15.615379,BTC-USD,3,market,Market Price,executed
+2025-04-05T11:02:16.617251,BTC-USD,4,market,Market Price,executed
+2025-04-05T11:02:17.619216,BTC-USD,4,market,Market Price,executed
+2025-04-05T11:02:18.621846,BTC-USD,4,market,Market Price,executed
+2025-04-05T11:02:19.624189,BTC-USD,4,market,Market Price,executed
+2025-04-05T11:02:20.626311,BTC-USD,5,market,Market Price,executed
+2025-04-05T11:02:21.628487,BTC-USD,5,market,Market Price,executed
+2025-04-05T11:02:22.631396,BTC-USD,1,market,Market Price,executed
+2025-04-05T11:02:23.634151,BTC-USD,2,market,Market Price,executed
+2025-04-05T11:02:24.636022,BTC-USD,4,market,Market Price,executed
+2025-04-05T11:02:25.638735,BTC-USD,4,market,Market Price,executed
+2025-04-05T11:02:26.640031,BTC-USD,4,market,Market Price,executed
+2025-04-05T11:02:27.642167,BTC-USD,3,market,Market Price,executed
+2025-04-05T11:02:28.644966,BTC-USD,2,market,Market Price,executed
+2025-04-05T11:02:29.647488,BTC-USD,1,market,Market Price,executed
+2025-04-05T11:02:30.650433,BTC-USD,3,market,Market Price,executed
+2025-04-05T11:02:31.653609,BTC-USD,3,market,Market Price,executed
+2025-04-05T11:02:32.656124,BTC-USD,1,market,Market Price,executed
+2025-04-05T11:02:33.659357,BTC-USD,2,market,Market Price,executed
+2025-04-05T11:02:34.661361,BTC-USD,3,market,Market Price,executed
+2025-04-05T11:02:35.664582,BTC-USD,2,market,Market Price,executed
+2025-04-05T11:02:36.666761,BTC-USD,2,market,Market Price,executed
+2025-04-05T11:02:37.669216,BTC-USD,3,market,Market Price,executed
+2025-04-05T11:02:38.672599,BTC-USD,4,market,Market Price,executed
+2025-04-05T11:02:39.675624,BTC-USD,5,market,Market Price,executed
+2025-04-05T11:02:40.678787,BTC-USD,4,market,Market Price,executed
+2025-04-05T11:02:41.683031,BTC-USD,4,market,Market Price,executed
+2025-04-05T11:02:42.686469,BTC-USD,1,market,Market Price,executed
+2025-04-05T11:02:43.689572,BTC-USD,1,market,Market Price,executed
+2025-04-05T11:02:44.692058,BTC-USD,3,market,Market Price,executed
+2025-04-05T11:02:45.694127,BTC-USD,1,market,Market Price,executed
+2025-04-05T11:02:46.697481,BTC-USD,1,market,Market Price,executed
+2025-04-05T11:02:47.699784,BTC-USD,3,market,Market Price,executed
+2025-04-05T11:02:48.701831,BTC-USD,2,market,Market Price,executed
+2025-04-05T11:02:49.703307,BTC-USD,3,market,Market Price,executed
+2025-04-05T11:02:50.704865,BTC-USD,1,market,Market Price,executed
+2025-04-05T11:02:51.706612,BTC-USD,2,market,Market Price,executed
+2025-04-05T11:02:52.708973,BTC-USD,5,market,Market Price,executed
+2025-04-05T11:02:53.711763,BTC-USD,2,market,Market Price,executed
+2025-04-05T11:02:54.715310,BTC-USD,3,market,Market Price,executed
+2025-04-05T11:02:55.718060,BTC-USD,3,market,Market Price,executed
+2025-04-05T11:02:56.719945,BTC-USD,3,market,Market Price,executed
+2025-04-05T11:02:57.722694,BTC-USD,5,market,Market Price,executed
+2025-04-05T11:02:58.724730,BTC-USD,5,market,Market Price,executed
+2025-04-05T11:02:59.727544,BTC-USD,5,market,Market Price,executed
+2025-04-05T11:03:00.730558,BTC-USD,2,market,Market Price,executed
+2025-04-05T11:03:01.734162,BTC-USD,3,market,Market Price,executed
+2025-04-05T11:03:02.736804,BTC-USD,2,market,Market Price,executed
+2025-04-05T11:03:03.738986,BTC-USD,5,market,Market Price,executed
+2025-04-05T11:03:04.741723,BTC-USD,5,market,Market Price,executed
+2025-04-05T11:03:05.744273,BTC-USD,3,market,Market Price,executed
+2025-04-05T11:03:06.746889,BTC-USD,3,market,Market Price,executed
+2025-04-05T11:03:07.749883,BTC-USD,4,market,Market Price,executed
+2025-04-05T11:03:08.753733,BTC-USD,3,market,Market Price,executed
+2025-04-05T11:03:09.756346,BTC-USD,3,market,Market Price,executed
+2025-04-05T11:03:10.759972,BTC-USD,5,market,Market Price,executed
+2025-04-05T11:03:11.763987,BTC-USD,2,market,Market Price,executed
+2025-04-05T11:03:12.766494,BTC-USD,1,market,Market Price,executed
+2025-04-05T11:03:13.769249,BTC-USD,3,market,Market Price,executed
+2025-04-05T11:03:14.771217,BTC-USD,5,market,Market Price,executed
+2025-04-05T11:03:15.773130,BTC-USD,1,market,Market Price,executed
+2025-04-05T11:03:16.774890,BTC-USD,1,market,Market Price,executed
+2025-04-05T11:03:17.778017,BTC-USD,1,market,Market Price,executed
+2025-04-05T11:03:18.779491,BTC-USD,4,market,Market Price,executed
+2025-04-05T11:03:19.780690,BTC-USD,1,market,Market Price,executed
+2025-04-05T11:03:20.782170,BTC-USD,4,market,Market Price,executed
+2025-04-05T11:03:21.784692,BTC-USD,3,market,Market Price,executed
+2025-04-05T11:03:22.786069,BTC-USD,4,market,Market Price,executed
+2025-04-05T11:03:23.787501,BTC-USD,3,market,Market Price,executed
+2025-04-05T11:03:24.789168,BTC-USD,5,market,Market Price,executed
+2025-04-05T11:03:25.791226,BTC-USD,3,market,Market Price,executed
+2025-04-05T11:03:26.793268,BTC-USD,2,market,Market Price,executed
+2025-04-05T11:03:27.796565,BTC-USD,4,market,Market Price,executed
+2025-04-05T11:03:28.798129,BTC-USD,3,market,Market Price,executed
+2025-04-05T11:03:29.800162,BTC-USD,3,market,Market Price,executed
+2025-04-05T11:03:30.803156,BTC-USD,3,market,Market Price,executed
+2025-04-05T11:03:31.805043,BTC-USD,1,market,Market Price,executed
+2025-04-05T11:03:32.806875,BTC-USD,1,market,Market Price,executed
+2025-04-05T11:03:33.809460,BTC-USD,5,market,Market Price,executed
+2025-04-05T11:03:34.810780,BTC-USD,3,market,Market Price,executed
+2025-04-05T11:03:35.812210,BTC-USD,3,market,Market Price,executed
+2025-04-05T11:03:36.813984,BTC-USD,5,market,Market Price,executed
+2025-04-05T11:03:37.816683,BTC-USD,4,market,Market Price,executed
+2025-04-05T11:03:38.819050,BTC-USD,5,market,Market Price,executed
+2025-04-05T11:03:39.822463,BTC-USD,5,market,Market Price,executed
+2025-04-05T11:03:40.825288,BTC-USD,1,market,Market Price,executed
+2025-04-05T11:03:41.827973,BTC-USD,4,market,Market Price,executed
+2025-04-05T11:03:42.830855,BTC-USD,1,market,Market Price,executed
+2025-04-05T11:03:43.833567,BTC-USD,4,market,Market Price,executed
+2025-04-05T11:03:44.836877,BTC-USD,2,market,Market Price,executed
+2025-04-05T11:03:45.838297,BTC-USD,5,market,Market Price,executed
+2025-04-05T11:03:46.840482,BTC-USD,3,market,Market Price,executed
+2025-04-05T11:03:47.842879,BTC-USD,5,market,Market Price,executed
+2025-04-05T11:03:48.845034,BTC-USD,1,market,Market Price,executed
+2025-04-05T11:03:49.847852,BTC-USD,5,market,Market Price,executed
+2025-04-05T11:03:50.852926,BTC-USD,3,market,Market Price,executed
+2025-04-05T11:03:51.855223,BTC-USD,1,market,Market Price,executed
+2025-04-05T11:03:52.858293,BTC-USD,3,market,Market Price,executed
+2025-04-05T11:03:53.860157,BTC-USD,5,market,Market Price,executed
+2025-04-05T11:03:54.861934,BTC-USD,2,market,Market Price,executed
+2025-04-05T11:03:55.864058,BTC-USD,1,market,Market Price,executed
+2025-04-05T11:03:56.866736,BTC-USD,4,market,Market Price,executed
+2025-04-05T11:03:57.869372,BTC-USD,2,market,Market Price,executed
+2025-04-05T11:03:58.870869,BTC-USD,3,market,Market Price,executed
+2025-04-05T11:03:59.872704,BTC-USD,4,market,Market Price,executed
+2025-04-05T11:04:00.876208,BTC-USD,4,market,Market Price,executed
+2025-04-05T11:04:01.878126,BTC-USD,4,market,Market Price,executed
+2025-04-05T11:04:02.880867,BTC-USD,2,market,Market Price,executed
+2025-04-05T11:04:03.883350,BTC-USD,5,market,Market Price,executed
+2025-04-05T11:04:04.886573,BTC-USD,1,market,Market Price,executed
+2025-04-05T11:04:05.888390,BTC-USD,3,market,Market Price,executed
+2025-04-05T11:04:06.890439,BTC-USD,4,market,Market Price,executed
+2025-04-05T11:04:07.893259,BTC-USD,5,market,Market Price,executed
+2025-04-05T11:04:08.895619,BTC-USD,4,market,Market Price,executed
+2025-04-05T11:04:09.897329,BTC-USD,2,market,Market Price,executed
+2025-04-05T11:04:10.901135,BTC-USD,5,market,Market Price,executed
+2025-04-05T11:04:11.904249,BTC-USD,4,market,Market Price,executed
+2025-04-05T11:04:12.907014,BTC-USD,1,market,Market Price,executed
+2025-04-05T11:04:13.909859,BTC-USD,4,market,Market Price,executed
+2025-04-05T11:04:14.914427,BTC-USD,4,market,Market Price,executed
+2025-04-05T11:04:15.916373,BTC-USD,5,market,Market Price,executed
+2025-04-05T11:04:16.918423,BTC-USD,5,market,Market Price,executed
+2025-04-05T11:04:17.921148,BTC-USD,2,market,Market Price,executed
+2025-04-05T11:04:18.923420,BTC-USD,5,market,Market Price,executed
+2025-04-05T11:04:19.926130,BTC-USD,1,market,Market Price,executed
+2025-04-05T11:04:20.928604,BTC-USD,2,market,Market Price,executed
+2025-04-05T11:04:21.931532,BTC-USD,4,market,Market Price,executed
+2025-04-05T11:04:22.934408,BTC-USD,4,market,Market Price,executed
+2025-04-05T11:04:23.937177,BTC-USD,3,market,Market Price,executed
+2025-04-05T11:04:24.940001,BTC-USD,3,market,Market Price,executed
+2025-04-05T11:04:25.942753,BTC-USD,1,market,Market Price,executed
+2025-04-05T11:04:26.945672,BTC-USD,4,market,Market Price,executed
+2025-04-05T11:04:27.948670,BTC-USD,1,market,Market Price,executed
+2025-04-05T11:04:28.951629,BTC-USD,4,market,Market Price,executed
+2025-04-05T11:04:29.954298,BTC-USD,1,market,Market Price,executed
+2025-04-05T11:04:30.956010,BTC-USD,5,market,Market Price,executed
+2025-04-05T11:04:31.958183,BTC-USD,5,market,Market Price,executed
+2025-04-05T11:04:32.960259,BTC-USD,2,market,Market Price,executed
+2025-04-05T11:04:33.964172,BTC-USD,3,market,Market Price,executed
+2025-04-05T11:04:34.965871,BTC-USD,1,market,Market Price,executed
+2025-04-05T11:04:35.967790,BTC-USD,3,market,Market Price,executed
+2025-04-05T11:04:36.970893,BTC-USD,1,market,Market Price,executed
+2025-04-05T11:04:37.973031,BTC-USD,2,market,Market Price,executed
+2025-04-05T11:04:38.976830,BTC-USD,2,market,Market Price,executed
+2025-04-05T11:04:39.980561,BTC-USD,5,market,Market Price,executed
+2025-04-05T11:04:40.982541,BTC-USD,5,market,Market Price,executed
+2025-04-05T17:44:16.985936,BTC-USD,3,market,Market Price,executed
+2025-04-05T17:44:17.988065,BTC-USD,1,market,Market Price,executed
+2025-04-05T17:44:18.989547,BTC-USD,5,market,Market Price,executed
+2025-04-05T17:44:19.991498,BTC-USD,3,market,Market Price,executed
+2025-04-05T17:44:20.992295,BTC-USD,4,market,Market Price,executed
+2025-04-05T17:44:21.993530,BTC-USD,1,market,Market Price,executed
+2025-04-05T17:44:22.994422,BTC-USD,3,market,Market Price,executed
+2025-04-05T17:44:23.995635,BTC-USD,3,market,Market Price,executed
+2025-04-05T17:44:24.996984,BTC-USD,3,market,Market Price,executed
+2025-04-05T17:44:25.998478,BTC-USD,4,market,Market Price,executed
+2025-04-05T17:44:27.000058,BTC-USD,4,market,Market Price,executed
+2025-04-05T17:44:28.001123,BTC-USD,3,market,Market Price,executed
+2025-04-05T17:44:29.001936,BTC-USD,2,market,Market Price,executed
+2025-04-05T17:44:30.002692,BTC-USD,3,market,Market Price,executed
+2025-04-05T17:44:31.007008,BTC-USD,1,market,Market Price,executed
+2025-04-05T17:44:32.009301,BTC-USD,3,market,Market Price,executed
+2025-04-05T17:44:33.050431,BTC-USD,3,market,Market Price,executed
+2025-04-05T18:58:40.501109,BTC-USD,1,market,Market Price,executed
+2025-04-05T18:58:41.506677,BTC-USD,1,market,Market Price,executed
+2025-04-05T18:58:42.508324,BTC-USD,2,market,Market Price,executed
+2025-04-05T18:58:43.509932,BTC-USD,2,market,Market Price,executed
+2025-04-05T18:58:44.512908,BTC-USD,3,market,Market Price,executed
+2025-04-05T18:58:45.515798,BTC-USD,1,market,Market Price,executed
+2025-04-05T18:58:46.517833,BTC-USD,3,market,Market Price,executed
+2025-04-05T18:58:47.520378,BTC-USD,5,market,Market Price,executed
+2025-04-05T18:58:48.521823,BTC-USD,2,market,Market Price,executed
+2025-04-05T18:58:49.524802,BTC-USD,5,market,Market Price,executed
+2025-04-05T18:58:50.527566,BTC-USD,4,market,Market Price,executed
+2025-04-05T18:58:51.529679,BTC-USD,2,market,Market Price,executed
+2025-04-05T18:58:52.530462,BTC-USD,3,market,Market Price,executed
+2025-04-05T18:58:53.532411,BTC-USD,1,market,Market Price,executed
+2025-04-05T18:58:54.536843,BTC-USD,2,market,Market Price,executed
+2025-04-05T18:58:55.539428,BTC-USD,3,market,Market Price,executed
+2025-04-05T18:58:56.540405,BTC-USD,4,market,Market Price,executed
+2025-04-05T18:58:57.542422,BTC-USD,3,market,Market Price,executed
+2025-04-05T18:58:58.543610,BTC-USD,3,market,Market Price,executed
+2025-04-05T18:58:59.546593,BTC-USD,4,market,Market Price,executed
+2025-04-05T18:59:00.548192,BTC-USD,3,market,Market Price,executed
+2025-04-05T18:59:01.551444,BTC-USD,2,market,Market Price,executed
+2025-04-05T18:59:02.553060,BTC-USD,4,market,Market Price,executed
+2025-04-05T18:59:03.555848,BTC-USD,4,market,Market Price,executed
+2025-04-05T18:59:04.558669,BTC-USD,5,market,Market Price,executed
+2025-04-05T18:59:05.561596,BTC-USD,3,market,Market Price,executed
+2025-04-05T18:59:06.562905,BTC-USD,1,market,Market Price,executed
+2025-04-05T18:59:07.564012,BTC-USD,1,market,Market Price,executed
+2025-04-05T18:59:08.565981,BTC-USD,2,market,Market Price,executed
+2025-04-05T18:59:09.568260,BTC-USD,5,market,Market Price,executed
+2025-04-05T18:59:10.570378,BTC-USD,1,market,Market Price,executed
+2025-04-05T18:59:11.572196,BTC-USD,3,market,Market Price,executed
+2025-04-05T18:59:12.574572,BTC-USD,4,market,Market Price,executed
+2025-04-05T18:59:13.577031,BTC-USD,1,market,Market Price,executed
+2025-04-05T18:59:14.578587,BTC-USD,3,market,Market Price,executed
+2025-04-05T18:59:15.580500,BTC-USD,1,market,Market Price,executed
+2025-04-05T18:59:16.582415,BTC-USD,2,market,Market Price,executed
+2025-04-05T18:59:17.584877,BTC-USD,2,market,Market Price,executed
+2025-04-05T18:59:18.587138,BTC-USD,4,market,Market Price,executed
+2025-04-05T18:59:19.589807,BTC-USD,2,market,Market Price,executed
+2025-04-05T18:59:20.592065,BTC-USD,2,market,Market Price,executed
+2025-04-05T18:59:21.594301,BTC-USD,1,market,Market Price,executed
+2025-04-05T18:59:22.597385,BTC-USD,3,market,Market Price,executed
+2025-04-05T18:59:23.600134,BTC-USD,4,market,Market Price,executed
+2025-04-05T18:59:24.602340,BTC-USD,4,market,Market Price,executed
+2025-04-05T18:59:25.604457,BTC-USD,3,market,Market Price,executed
+2025-04-05T18:59:26.606788,BTC-USD,1,market,Market Price,executed
+2025-04-05T18:59:27.609022,BTC-USD,5,market,Market Price,executed
+2025-04-05T18:59:28.611028,BTC-USD,1,market,Market Price,executed
+2025-04-05T18:59:29.613031,BTC-USD,5,market,Market Price,executed
+2025-04-05T18:59:30.615140,BTC-USD,5,market,Market Price,executed
+2025-04-05T18:59:31.617110,BTC-USD,5,market,Market Price,executed
+2025-04-05T18:59:32.620472,BTC-USD,5,market,Market Price,executed
+2025-04-05T18:59:33.623337,BTC-USD,1,market,Market Price,executed
+2025-04-05T18:59:34.625407,BTC-USD,4,market,Market Price,executed
+2025-04-05T18:59:35.626739,BTC-USD,1,market,Market Price,executed
+2025-04-05T18:59:36.628066,BTC-USD,5,market,Market Price,executed
+2025-04-05T18:59:37.629544,BTC-USD,5,market,Market Price,executed
+2025-04-05T18:59:38.630992,BTC-USD,5,market,Market Price,executed
+2025-04-05T18:59:39.632809,BTC-USD,1,market,Market Price,executed
+2025-04-05T18:59:40.635523,BTC-USD,3,market,Market Price,executed
+2025-04-05T18:59:41.638257,BTC-USD,4,market,Market Price,executed
+2025-04-05T18:59:42.640573,BTC-USD,1,market,Market Price,executed
+2025-04-05T18:59:43.642698,BTC-USD,3,market,Market Price,executed
+2025-04-05T18:59:44.644239,BTC-USD,3,market,Market Price,executed
+2025-04-05T18:59:45.645987,BTC-USD,5,market,Market Price,executed
+2025-04-05T18:59:46.647557,BTC-USD,2,market,Market Price,executed
+2025-04-05T18:59:47.649366,BTC-USD,4,market,Market Price,executed
+2025-04-05T18:59:48.650995,BTC-USD,2,market,Market Price,executed
+2025-04-05T18:59:49.652668,BTC-USD,2,market,Market Price,executed
+2025-04-05T18:59:50.653889,BTC-USD,4,market,Market Price,executed
+2025-04-05T18:59:51.655366,BTC-USD,3,market,Market Price,executed
+2025-04-05T18:59:52.656796,BTC-USD,2,market,Market Price,executed
+2025-04-05T18:59:53.659276,BTC-USD,1,market,Market Price,executed
+2025-04-05T18:59:54.662405,BTC-USD,2,market,Market Price,executed
+2025-04-05T18:59:55.666325,BTC-USD,5,market,Market Price,executed
+2025-04-05T18:59:56.669872,BTC-USD,3,market,Market Price,executed
+2025-04-05T18:59:57.673795,BTC-USD,2,market,Market Price,executed
+2025-04-05T18:59:58.676600,BTC-USD,3,market,Market Price,executed
+2025-04-05T18:59:59.677945,BTC-USD,3,market,Market Price,executed
+2025-04-05T19:00:00.679765,BTC-USD,4,market,Market Price,executed
+2025-04-05T19:00:01.681268,BTC-USD,4,market,Market Price,executed
+2025-04-05T19:00:02.684478,BTC-USD,4,market,Market Price,executed
+2025-04-05T19:00:03.686549,BTC-USD,2,market,Market Price,executed
+2025-04-05T19:00:04.688072,BTC-USD,1,market,Market Price,executed
+2025-04-05T19:00:05.691586,BTC-USD,2,market,Market Price,executed
+2025-04-05T19:00:06.694215,BTC-USD,3,market,Market Price,executed
+2025-04-05T19:00:07.696913,BTC-USD,4,market,Market Price,executed
+2025-04-05T19:00:08.699295,BTC-USD,1,market,Market Price,executed
+2025-04-05T19:00:09.701771,BTC-USD,1,market,Market Price,executed
+2025-04-05T19:00:10.704532,BTC-USD,4,market,Market Price,executed
+2025-04-05T19:00:11.706438,BTC-USD,1,market,Market Price,executed
+2025-04-05T19:00:12.707804,BTC-USD,4,market,Market Price,executed
+2025-04-05T19:00:13.710111,BTC-USD,5,market,Market Price,executed
+2025-04-05T19:00:14.711854,BTC-USD,3,market,Market Price,executed
+2025-04-05T19:00:15.713480,BTC-USD,2,market,Market Price,executed
+2025-04-05T19:00:16.715591,BTC-USD,2,market,Market Price,executed
+2025-04-05T19:00:17.717350,BTC-USD,1,market,Market Price,executed
+2025-04-05T19:00:18.719045,BTC-USD,4,market,Market Price,executed
+2025-04-05T19:00:19.720458,BTC-USD,3,market,Market Price,executed
+2025-04-05T19:00:20.721692,BTC-USD,2,market,Market Price,executed
+2025-04-05T19:00:21.722604,BTC-USD,2,market,Market Price,executed
+2025-04-05T19:00:22.724327,BTC-USD,2,market,Market Price,executed
+2025-04-05T19:00:23.725924,BTC-USD,1,market,Market Price,executed
+2025-04-05T19:00:24.727486,BTC-USD,1,market,Market Price,executed
+2025-04-05T19:00:25.728780,BTC-USD,2,market,Market Price,executed
+2025-04-05T19:00:26.731461,BTC-USD,1,market,Market Price,executed
+2025-04-05T19:00:27.733320,BTC-USD,1,market,Market Price,executed
+2025-04-05T19:00:28.734876,BTC-USD,5,market,Market Price,executed
+2025-04-05T19:00:29.737724,BTC-USD,5,market,Market Price,executed
+2025-04-05T19:00:30.740437,BTC-USD,5,market,Market Price,executed
+2025-04-05T19:00:31.742524,BTC-USD,5,market,Market Price,executed
+2025-04-05T19:00:32.743780,BTC-USD,4,market,Market Price,executed
+2025-04-05T19:00:33.745007,BTC-USD,4,market,Market Price,executed
+2025-04-05T19:00:34.746958,BTC-USD,5,market,Market Price,executed
+2025-04-05T19:00:35.750021,BTC-USD,5,market,Market Price,executed
+2025-04-05T19:00:36.751304,BTC-USD,2,market,Market Price,executed
+2025-04-05T19:00:37.753404,BTC-USD,1,market,Market Price,executed
+2025-04-05T19:00:38.755153,BTC-USD,4,market,Market Price,executed
+2025-04-05T19:00:39.756964,BTC-USD,1,market,Market Price,executed
+2025-04-05T19:00:40.760702,BTC-USD,2,market,Market Price,executed
+2025-04-05T19:00:41.763815,BTC-USD,2,market,Market Price,executed
+2025-04-05T19:00:42.766331,BTC-USD,2,market,Market Price,executed
+2025-04-05T19:00:43.768547,BTC-USD,1,market,Market Price,executed
+2025-04-05T19:00:44.772390,BTC-USD,4,market,Market Price,executed
+2025-04-05T19:00:45.774283,BTC-USD,4,market,Market Price,executed
+2025-04-05T19:00:46.776163,BTC-USD,2,market,Market Price,executed
+2025-04-05T19:00:47.778189,BTC-USD,4,market,Market Price,executed
+2025-04-05T19:00:48.780640,BTC-USD,4,market,Market Price,executed
+2025-04-05T19:00:49.784739,BTC-USD,3,market,Market Price,executed
+2025-04-05T19:00:50.787619,BTC-USD,4,market,Market Price,executed
+2025-04-05T19:00:51.790481,BTC-USD,1,market,Market Price,executed
+2025-04-05T19:00:52.792626,BTC-USD,5,market,Market Price,executed
+2025-04-05T19:00:53.794556,BTC-USD,5,market,Market Price,executed
+2025-04-05T19:00:54.795822,BTC-USD,3,market,Market Price,executed
+2025-04-05T19:00:55.799149,BTC-USD,2,market,Market Price,executed
+2025-04-05T19:00:56.801833,BTC-USD,1,market,Market Price,executed
+2025-04-05T19:00:57.804830,BTC-USD,1,market,Market Price,executed
+2025-04-05T19:00:58.807992,BTC-USD,3,market,Market Price,executed
+2025-04-05T19:00:59.811033,BTC-USD,3,market,Market Price,executed
+2025-04-05T19:01:00.814093,BTC-USD,4,market,Market Price,executed
+2025-04-05T19:01:01.816128,BTC-USD,5,market,Market Price,executed
+2025-04-05T19:01:02.818617,BTC-USD,3,market,Market Price,executed
+2025-04-05T19:01:03.820948,BTC-USD,1,market,Market Price,executed
+2025-04-05T19:01:04.822616,BTC-USD,4,market,Market Price,executed
+2025-04-05T19:01:05.823972,BTC-USD,5,market,Market Price,executed
+2025-04-05T19:01:06.825096,BTC-USD,4,market,Market Price,executed
+2025-04-05T19:01:07.826997,BTC-USD,2,market,Market Price,executed
+2025-04-05T19:01:08.828516,BTC-USD,2,market,Market Price,executed
+2025-04-05T19:01:09.830195,BTC-USD,2,market,Market Price,executed
+2025-04-05T19:01:10.833666,BTC-USD,2,market,Market Price,executed
+2025-04-05T19:01:11.836685,BTC-USD,2,market,Market Price,executed
+2025-04-05T19:01:12.841386,BTC-USD,5,market,Market Price,executed
+2025-04-05T19:01:13.843061,BTC-USD,5,market,Market Price,executed
+2025-04-05T19:01:14.844921,BTC-USD,4,market,Market Price,executed
+2025-04-05T19:01:15.846831,BTC-USD,5,market,Market Price,executed
+2025-04-05T19:01:16.850559,BTC-USD,4,market,Market Price,executed
+2025-04-05T19:01:17.855902,BTC-USD,2,market,Market Price,executed
+2025-04-05T19:01:18.859105,BTC-USD,5,market,Market Price,executed
+2025-04-05T19:01:19.861983,BTC-USD,1,market,Market Price,executed
+2025-04-05T19:01:20.864937,BTC-USD,3,market,Market Price,executed
+2025-04-05T19:01:21.866307,BTC-USD,5,market,Market Price,executed
+2025-04-05T19:01:22.868334,BTC-USD,3,market,Market Price,executed
+2025-04-05T19:01:23.869621,BTC-USD,1,market,Market Price,executed
+2025-04-05T19:01:24.872029,BTC-USD,5,market,Market Price,executed
+2025-04-05T19:01:25.874782,BTC-USD,4,market,Market Price,executed
+2025-04-05T19:01:26.876718,BTC-USD,1,market,Market Price,executed
+2025-04-05T19:01:27.878100,BTC-USD,5,market,Market Price,executed
+2025-04-05T19:01:28.882238,BTC-USD,4,market,Market Price,executed
+2025-04-05T19:01:29.885010,BTC-USD,2,market,Market Price,executed
+2025-04-05T19:01:30.886928,BTC-USD,5,market,Market Price,executed
+2025-04-05T19:01:31.888904,BTC-USD,2,market,Market Price,executed
+2025-04-05T19:01:32.890555,BTC-USD,4,market,Market Price,executed
+2025-04-05T19:01:33.895777,BTC-USD,2,market,Market Price,executed
+2025-04-05T19:01:34.897810,BTC-USD,4,market,Market Price,executed
+2025-04-05T19:01:35.900567,BTC-USD,5,market,Market Price,executed
+2025-04-05T19:01:36.902288,BTC-USD,3,market,Market Price,executed
+2025-04-05T19:01:37.904325,BTC-USD,1,market,Market Price,executed
+2025-04-05T19:01:38.906557,BTC-USD,2,market,Market Price,executed
+2025-04-05T19:01:39.909407,BTC-USD,2,market,Market Price,executed
+2025-04-05T19:01:40.911608,BTC-USD,2,market,Market Price,executed
+2025-04-05T19:01:41.913939,BTC-USD,2,market,Market Price,executed
+2025-04-05T19:01:42.917080,BTC-USD,3,market,Market Price,executed
+2025-04-05T19:01:43.919573,BTC-USD,1,market,Market Price,executed
+2025-04-05T19:01:44.921501,BTC-USD,1,market,Market Price,executed
+2025-04-05T19:01:45.924249,BTC-USD,5,market,Market Price,executed
+2025-04-05T19:01:46.926315,BTC-USD,5,market,Market Price,executed
+2025-04-05T19:01:47.929166,BTC-USD,4,market,Market Price,executed
+2025-04-05T19:01:48.931789,BTC-USD,5,market,Market Price,executed
+2025-04-05T19:01:49.934236,BTC-USD,3,market,Market Price,executed
+2025-04-05T19:01:50.937071,BTC-USD,2,market,Market Price,executed
+2025-04-05T19:01:51.940058,BTC-USD,4,market,Market Price,executed
+2025-04-05T19:01:52.943015,BTC-USD,3,market,Market Price,executed
+2025-04-05T19:01:53.945645,BTC-USD,1,market,Market Price,executed
+2025-04-05T19:01:54.947667,BTC-USD,4,market,Market Price,executed
+2025-04-05T19:01:55.950349,BTC-USD,3,market,Market Price,executed
+2025-04-05T19:01:56.953124,BTC-USD,3,market,Market Price,executed
+2025-04-05T19:01:57.955568,BTC-USD,4,market,Market Price,executed
+2025-04-05T19:01:58.959009,BTC-USD,4,market,Market Price,executed
+2025-04-05T19:01:59.962009,BTC-USD,1,market,Market Price,executed
+2025-04-05T19:02:00.964826,BTC-USD,2,market,Market Price,executed
+2025-04-05T19:02:01.967211,BTC-USD,5,market,Market Price,executed
+2025-04-05T19:02:02.970402,BTC-USD,1,market,Market Price,executed
+2025-04-05T19:02:03.972788,BTC-USD,1,market,Market Price,executed
+2025-04-05T19:02:04.975421,BTC-USD,5,market,Market Price,executed
+2025-04-05T19:02:05.978202,BTC-USD,2,market,Market Price,executed
+2025-04-05T19:02:06.979790,BTC-USD,4,market,Market Price,executed
+2025-04-05T19:02:07.981892,BTC-USD,3,market,Market Price,executed
+2025-04-05T19:02:08.984360,BTC-USD,3,market,Market Price,executed
+2025-04-05T19:02:09.987484,BTC-USD,3,market,Market Price,executed
+2025-04-05T19:02:10.990039,BTC-USD,2,market,Market Price,executed
+2025-04-05T19:02:11.995039,BTC-USD,2,market,Market Price,executed
+2025-04-05T19:02:12.997355,BTC-USD,3,market,Market Price,executed
+2025-04-05T19:02:13.999383,BTC-USD,4,market,Market Price,executed
+2025-04-05T19:02:15.001371,BTC-USD,3,market,Market Price,executed
+2025-04-05T19:02:16.004840,BTC-USD,4,market,Market Price,executed
+2025-04-05T19:02:17.007692,BTC-USD,3,market,Market Price,executed
+2025-04-05T19:02:18.010448,BTC-USD,4,market,Market Price,executed
+2025-04-05T19:02:19.012594,BTC-USD,4,market,Market Price,executed
+2025-04-05T19:02:20.016501,BTC-USD,1,market,Market Price,executed
+2025-04-05T19:02:21.036886,BTC-USD,1,market,Market Price,executed
+2025-04-05T19:02:22.049018,BTC-USD,1,market,Market Price,executed
+2025-04-05T19:02:23.052771,BTC-USD,2,market,Market Price,executed
+2025-04-05T19:02:24.054913,BTC-USD,1,market,Market Price,executed
+2025-04-05T19:02:25.057184,BTC-USD,3,market,Market Price,executed
+2025-04-05T19:02:26.059092,BTC-USD,2,market,Market Price,executed
+2025-04-05T19:02:27.061384,BTC-USD,2,market,Market Price,executed
+2025-04-05T19:02:28.063288,BTC-USD,1,market,Market Price,executed
+2025-04-05T19:02:29.064812,BTC-USD,3,market,Market Price,executed
+2025-04-05T19:02:30.066919,BTC-USD,1,market,Market Price,executed
+2025-04-05T19:02:31.069940,BTC-USD,4,market,Market Price,executed
+2025-04-05T19:02:32.071861,BTC-USD,3,market,Market Price,executed
+2025-04-05T19:02:33.073606,BTC-USD,2,market,Market Price,executed
+2025-04-05T19:02:34.075473,BTC-USD,3,market,Market Price,executed
+2025-04-05T19:02:35.077425,BTC-USD,2,market,Market Price,executed
+2025-04-05T19:02:36.080063,BTC-USD,3,market,Market Price,executed
+2025-04-05T19:02:37.082459,BTC-USD,5,market,Market Price,executed
+2025-04-05T19:02:38.084691,BTC-USD,3,market,Market Price,executed
+2025-04-05T19:02:39.086262,BTC-USD,4,market,Market Price,executed
+2025-04-05T19:02:40.089484,BTC-USD,2,market,Market Price,executed
+2025-04-05T19:02:41.091812,BTC-USD,4,market,Market Price,executed
+2025-04-05T19:02:42.094243,BTC-USD,1,market,Market Price,executed
+2025-04-05T19:02:43.097672,BTC-USD,1,market,Market Price,executed
+2025-04-05T19:02:44.099950,BTC-USD,1,market,Market Price,executed
+2025-04-05T19:02:45.102124,BTC-USD,2,market,Market Price,executed
+2025-04-05T19:02:46.105255,BTC-USD,3,market,Market Price,executed
+2025-04-05T19:02:47.109832,BTC-USD,4,market,Market Price,executed
+2025-04-05T19:02:48.112351,BTC-USD,3,market,Market Price,executed
+2025-04-05T19:02:49.115242,BTC-USD,2,market,Market Price,executed
+2025-04-05T19:02:50.117243,BTC-USD,5,market,Market Price,executed
+2025-04-05T19:02:51.118778,BTC-USD,4,market,Market Price,executed
+2025-04-05T19:02:52.120255,BTC-USD,3,market,Market Price,executed
+2025-04-05T19:02:53.121775,BTC-USD,2,market,Market Price,executed
+2025-04-05T19:02:54.125031,BTC-USD,5,market,Market Price,executed
+2025-04-05T19:02:55.133431,BTC-USD,1,market,Market Price,executed
+2025-04-05T19:02:56.135678,BTC-USD,4,market,Market Price,executed
+2025-04-05T19:02:57.137498,BTC-USD,2,market,Market Price,executed
+2025-04-05T19:02:58.139896,BTC-USD,2,market,Market Price,executed
+2025-04-05T19:02:59.142224,BTC-USD,2,market,Market Price,executed
+2025-04-05T19:03:00.144514,BTC-USD,5,market,Market Price,executed
+2025-04-05T19:03:01.147830,BTC-USD,5,market,Market Price,executed
+2025-04-05T19:03:02.149226,BTC-USD,2,market,Market Price,executed
+2025-04-05T19:03:03.150833,BTC-USD,3,market,Market Price,executed
+2025-04-05T19:03:04.151899,BTC-USD,4,market,Market Price,executed
+2025-04-05T19:03:05.153614,BTC-USD,4,market,Market Price,executed
+2025-04-05T19:03:06.156535,BTC-USD,3,market,Market Price,executed
+2025-04-05T19:03:07.158982,BTC-USD,2,market,Market Price,executed
+2025-04-05T19:03:08.160493,BTC-USD,5,market,Market Price,executed
+2025-04-05T19:03:09.162766,BTC-USD,3,market,Market Price,executed
+2025-04-05T19:03:10.164970,BTC-USD,5,market,Market Price,executed
+2025-04-05T19:03:11.167052,BTC-USD,5,market,Market Price,executed
+2025-04-05T19:03:12.169655,BTC-USD,1,market,Market Price,executed
+2025-04-05T19:03:13.171831,BTC-USD,4,market,Market Price,executed
+2025-04-05T19:03:14.173978,BTC-USD,5,market,Market Price,executed
+2025-04-05T19:03:15.176071,BTC-USD,5,market,Market Price,executed
+2025-04-05T19:03:16.178647,BTC-USD,3,market,Market Price,executed
+2025-04-05T19:03:17.182188,BTC-USD,5,market,Market Price,executed
+2025-04-05T19:03:18.184916,BTC-USD,2,market,Market Price,executed
+2025-04-05T19:03:19.187190,BTC-USD,3,market,Market Price,executed
+2025-04-05T19:03:20.190091,BTC-USD,5,market,Market Price,executed
+2025-04-05T19:03:21.192270,BTC-USD,1,market,Market Price,executed
+2025-04-05T19:03:22.194603,BTC-USD,2,market,Market Price,executed
+2025-04-05T19:03:23.196978,BTC-USD,3,market,Market Price,executed
+2025-04-05T19:03:24.199213,BTC-USD,3,market,Market Price,executed
+2025-04-05T19:03:25.203030,BTC-USD,2,market,Market Price,executed
+2025-04-05T19:03:26.205799,BTC-USD,5,market,Market Price,executed
+2025-04-05T19:03:27.207795,BTC-USD,3,market,Market Price,executed
+2025-04-05T19:03:28.209791,BTC-USD,2,market,Market Price,executed
+2025-04-05T19:03:29.212390,BTC-USD,2,market,Market Price,executed
+2025-04-05T19:03:30.214197,BTC-USD,3,market,Market Price,executed
+2025-04-05T19:03:31.216806,BTC-USD,3,market,Market Price,executed
+2025-04-05T19:03:32.219122,BTC-USD,4,market,Market Price,executed
+2025-04-05T19:03:33.221075,BTC-USD,2,market,Market Price,executed
+2025-04-05T19:03:34.223762,BTC-USD,1,market,Market Price,executed
+2025-04-05T19:03:35.227039,BTC-USD,5,market,Market Price,executed
+2025-04-05T19:03:36.229091,BTC-USD,3,market,Market Price,executed
+2025-04-05T19:03:37.231044,BTC-USD,5,market,Market Price,executed
+2025-04-05T19:03:38.233091,BTC-USD,4,market,Market Price,executed
+2025-04-05T19:03:39.236542,BTC-USD,5,market,Market Price,executed
+2025-04-05T19:03:40.238534,BTC-USD,5,market,Market Price,executed
+2025-04-05T19:03:41.240752,BTC-USD,5,market,Market Price,executed
+2025-04-05T19:03:42.242701,BTC-USD,2,market,Market Price,executed
+2025-04-05T19:03:43.244739,BTC-USD,1,market,Market Price,executed
+2025-04-05T19:03:44.245917,BTC-USD,1,market,Market Price,executed
+2025-04-05T19:03:45.248545,BTC-USD,3,market,Market Price,executed
+2025-04-05T19:03:46.251251,BTC-USD,2,market,Market Price,executed
+2025-04-05T19:03:47.253121,BTC-USD,1,market,Market Price,executed
+2025-04-05T19:03:48.254214,BTC-USD,2,market,Market Price,executed
+2025-04-05T19:03:49.255588,BTC-USD,2,market,Market Price,executed
+2025-04-05T19:03:50.257856,BTC-USD,3,market,Market Price,executed
+2025-04-05T19:03:51.259421,BTC-USD,3,market,Market Price,executed
+2025-04-05T19:03:52.260207,BTC-USD,1,market,Market Price,executed
+2025-04-05T19:03:53.262157,BTC-USD,3,market,Market Price,executed

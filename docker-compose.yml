@@ -1,0 +1,108 @@
+version: '3.9'
+
+services:
+  binance_producer:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: binance_producer
+    command: python core/binance_producer.py
+    environment:
+      - BINANCE_API_KEY=BHkfUzozljEsUKumurV3ITauRmMshx9MFL8jiX38zvqmTQUgFQXKjtzanGANWxUD
+      - BINANCE_API_SECRET=rHLDITqJyPrT0vzyAP6NlfGitBE1X2Q98lSM9TiKgWiPX5wG7D4fN919KsLFEx8B
+    depends_on:
+      - kafka
+
+  hft_django:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: hft_django
+    command: python manage.py runserver 0.0.0.0:8000
+    volumes:
+      - .:/app
+    ports:
+      - "8000:8000"
+    depends_on:
+      - postgres
+      - redis
+      - kafka
+      - celery_worker
+    environment:
+      - DJANGO_SETTINGS_MODULE=hft.settings
+      - DATABASE_HOST=postgres
+      - DATABASE_PORT=5432
+      - KAFKA_BOOTSTRAP_SERVERS=kafka:9092
+      - BINANCE_API_KEY=BHkfUzozljEsUKumurV3ITauRmMshx9MFL8jiX38zvqmTQUgFQXKjtzanGANWxUD
+      - BINANCE_API_SECRET=rHLDITqJyPrT0vzyAP6NlfGitBE1X2Q98lSM9TiKgWiPX5wG7D4fN919KsLFEx8B
+
+  postgres:
+    image: postgres:15
+    container_name: postgres
+    environment:
+      POSTGRES_DB: hft_db
+      POSTGRES_USER: user
+      POSTGRES_PASSWORD: password123
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    ports:
+      - "5432:5432"
+
+  redis:
+    image: redis:6.2
+    container_name: redis
+    ports:
+      - "6379:6379"
+
+  zookeeper:
+    image: confluentinc/cp-zookeeper:7.4.0
+    container_name: zookeeper
+    environment:
+      ZOOKEEPER_CLIENT_PORT: 2181
+      ZOOKEEPER_TICK_TIME: 2000
+    ports:
+      - "2181:2181"
+
+  kafka:
+    image: confluentinc/cp-kafka:7.4.0
+    container_name: kafka
+    ports:
+      - "9092:9092"
+    environment:
+      KAFKA_BROKER_ID: 1
+      KAFKA_ZOOKEEPER_CONNECT: zookeeper:2181
+      KAFKA_ADVERTISED_LISTENERS: PLAINTEXT://localhost:9092
+      KAFKA_LISTENER_SECURITY_PROTOCOL_MAP: PLAINTEXT:PLAINTEXT
+      KAFKA_OFFSETS_TOPIC_REPLICATION_FACTOR: 1
+      KAFKA_LISTENERS: PLAINTEXT://0.0.0.0:9092
+    depends_on:
+      - zookeeper
+
+  celery_worker:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: celery_worker
+    command: celery -A hft worker --loglevel=info
+    volumes:
+      - .:/app
+    depends_on:
+      - redis
+      - kafka
+      - postgres
+    environment:
+      - DJANGO_SETTINGS_MODULE=hft.settings
+      - KAFKA_BOOTSTRAP_SERVERS=kafka:9092
+
+  flower:
+    image: mher/flower
+    container_name: flower
+    command: ["celery", "-A", "hft", "flower", "--port=5555"]
+    ports:
+      - "5555:5555"
+    depends_on:
+      - redis
+      - celery_worker
+
+volumes:
+  postgres_data:

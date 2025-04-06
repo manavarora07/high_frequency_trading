@@ -1,0 +1,1 @@
+strategy = MovingAverageStrategy(short_window=3, long_window=5)
